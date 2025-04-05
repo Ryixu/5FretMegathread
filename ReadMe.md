@@ -97,16 +97,16 @@ YouTube Videos:
 * [Xbox 360 Pal Guide](https://www.youtube.com/watch?v=0vOnXxlL0NU)
 * [Xbox 360 Transfer Game Saves](https://www.youtube.com/watch?v=iuwlny3bFXk)
 
-Content:
-* LoreHero; [YouTube](https://www.youtube.com/@LoreHeroPodcast)
-* YARG; [YouTube](https://www.youtube.com/@YARGGame)
-* Acai; [YouTube](https://www.youtube.com/@acai28) [Twitch](https://www.twitch.tv/acai) [TikTok](https://www.tiktok.com/@acai28)
-* JasonParadise; [YouTube](https://www.youtube.com/@JasonParadise) [Twitch](https://www.twitch.tv/jasonparadise) [TikTok](https://www.tiktok.com/@jparalove)
-* 760Creations; [Twitch](https://www.twitch.tv/760creations) [TikTok](https://www.tiktok.com/@760.creations)
-* aWiseMoose; [YouTube](https://www.youtube.com/@aWiseMoose/featured) [Twitch](https://www.twitch.tv/awisemoose) [TikTok](https://www.tiktok.com/@a.wisemoose)
+Community Socials:
+* LoreHero; [YouTube](https://www.youtube.com/@LoreHeroPodcast) / [Twitter](https://x.com/LoreHeroPodcast) [Bluesky](https://bsky.app/profile/loreheropodcast.bsky.social)
+* YARG; [YouTube](https://www.youtube.com/@YARGGame) / [Twitter](https://x.com/YARGGame) [Bluesky](https://bsky.app/profile/yarg.in)
+* Acai; [YouTube](https://www.youtube.com/@acai28) [Twitch](https://www.twitch.tv/acai) [TikTok](https://www.tiktok.com/@acai28) / [Twitter](https://x.com/Acai28) [BlueSky](https://bsky.app/profile/acai.bsky.social) 
+* JasonParadise; [YouTube](https://www.youtube.com/@JasonParadise) [Twitch](https://www.twitch.tv/jasonparadise) [TikTok](https://www.tiktok.com/@jparalove) / [Twitter](https://x.com/jparaLove) [BlueSky](https://bsky.app/profile/jasonparadise.bsky.social)
+* 760Creations; [Twitch](https://www.twitch.tv/760creations) [TikTok](https://www.tiktok.com/@760.creations) / [Twitter](https://www.twitch.tv/760creations) [Bluesky](https://x.com/xX760Xx)
+* aWiseMoose; [YouTube](https://www.youtube.com/@aWiseMoose/featured) [Twitch](https://www.twitch.tv/awisemoose) [TikTok](https://www.tiktok.com/@a.wisemoose) / [Twitter](https://x.com/aWiseMoose) [BlueSky](https://bsky.app/profile/did:plc:5ijozdxbi7b2gsqih6mii2zv)
 * Jprez; [YouTube](https://www.youtube.com/@JPrez44) [Twitch](https://www.twitch.tv/jprez)
-* AceZeroRB; [YouTube](https://www.youtube.com/@TheAcezero12078) [Twitch](https://www.twitch.tv/acezerorb)
-* SoyaDesu; [YouTube](https://www.youtube.com/@soyadesu) [Twitch](https://www.twitch.tv/soyadesu) [TikTok](https://www.tiktok.com/@soyadesuuu)
+* AceZeroRB; [YouTube](https://www.youtube.com/@TheAcezero12078) [Twitch](https://www.twitch.tv/acezerorb) / [Twitter](https://x.com/AcezeroRB)
+* SoyaDesu; [YouTube](https://www.youtube.com/@soyadesu) [Twitch](https://www.twitch.tv/soyadesu) [TikTok](https://www.tiktok.com/@soyadesuuu) / [Twitter](https://x.com/soyadesuuu) [BlueSky](https://bsky.app/profile/soya.place)
 * LeftyGod; [YouTube](https://www.youtube.com/@leftygod9999) [Twitch](https://www.twitch.tv/leftygod998) [TikTok](https://www.tiktok.com/@leftygod998)
 * RandomVince; [YouTube](https://www.youtube.com/@RandomVince27) [Twitch](https://www.twitch.tv/randomvince27) [TikTok](https://www.tiktok.com/@randomvince27)
 * RedSavage; [YouTube](https://www.youtube.com/channel/UCKOT20I-mH-ioSpP-uyoERg) [Twitch](https://www.twitch.tv/redsavage83) [TikTok](https://www.tiktok.com/@theredsavage)
@@ -125,14 +125,4 @@ Content:
 * Darkai; [YouTube](https://www.youtube.com/@DarkaiVT) [Twitch](https://www.twitch.tv/darkaivt) [TikTok](https://www.tiktok.com/@darkaivt)
 * MandyRocks; [YouTube](https://www.youtube.com/@MandyRocks) [Twitch](https://www.twitch.tv/mandyr0cks) [TikTok](https://www.tiktok.com/@mandyr0cks)
 * Lexegon; [YouTube](https://www.youtube.com/@lexegonyt) [Twitch](https://www.twitch.tv/lexegon) [TikTok](https://www.tiktok.com/@lexegon)
-
-Socials (section not complete):
-* LoreHero; [Twitter](https://x.com/LoreHeroPodcast) [Bluesky](https://bsky.app/profile/loreheropodcast.bsky.social)
-* YARG; [Twitter](https://x.com/YARGGame) [Bluesky](https://bsky.app/profile/yarg.in)
-* Acai; [Twitter](https://x.com/Acai28) [BlueSky](https://bsky.app/profile/acai.bsky.social) 
-* JasonParadise; [Twitter](https://x.com/jparaLove) [BlueSky](https://bsky.app/profile/jasonparadise.bsky.social)
-* 760Creations; [Twitter](https://www.twitch.tv/760creations) [Bluesky](https://x.com/xX760Xx)
-* aWiseMoose; [Twitter](https://x.com/aWiseMoose) [BlueSky](https://bsky.app/profile/did:plc:5ijozdxbi7b2gsqih6mii2zv)
-* AceZero; [Twitter](https://x.com/AcezeroRB)
-* SoyaDesu; [Twitter](https://x.com/soyadesuuu) [BlueSky](https://bsky.app/profile/soya.place)
 
