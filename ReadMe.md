@@ -53,22 +53,25 @@ Hardware:
 * [CRKD](https://crkd.gg/)
 * [PDP](https://pdp.com/products/playstation-riffmaster-wireless-guitar-controller)
 
-
-Streaming Tools
- * [Ouvert](https://ouvert.dev/)
- * [InputJuice](https://github.com/Ryixu/InputJuice)
-Emulators
- * [RPCS3](https://rpcs3.net/)
- * [PCSX2](https://pcsx2.net/)
-Controller Tools
- * [Festival Instrument Mapper](https://github.com/InvoxiPlayGames/FestivalInstrumentMapper)
- * [Rock Band Instrument Mapper](https://github.com/TheNathannator/RB4InstrumentMapper/releases)
-Modding Tools
- * [Honeycomb GUI](https://github.com/AddyMills/Honeycomb-GUI)
- * [Honeycomb CUI](https://github.com/AddyMills/Honeycomb-CUI)
- * [Guitar Hero Metronome Tools](https://www.mediafire.com/file/cx9py93jovhfiq4/Hero_Metronome.rar/file)
- * [RAD Tools](https://www.radgametools.com/)
-Charting Tools
- * [Editor on Fire](https://ignition4.customsforge.com/eof)
- * [Moonscraper](https://github.com/FireFox2000000/Moonscraper-Chart-Editor)
- * [Audacity](https://www.audacityteam.org/)
+Streaming Tools:
+* [Ouvert](https://ouvert.dev/)
+* [InputJuice](https://github.com/Ryixu/InputJuice)
+  
+Emulators:
+* [RPCS3](https://rpcs3.net/)
+* [PCSX2](https://pcsx2.net/)
+  
+Guitar Tools:
+* [Festival Instrument Mapper](https://github.com/InvoxiPlayGames/FestivalInstrumentMapper)
+* [Rock Band Instrument Mapper](https://github.com/TheNathannator/RB4InstrumentMapper/releases)
+  
+Modding Tools:
+* [Honeycomb GUI](https://github.com/AddyMills/Honeycomb-GUI)
+* [Honeycomb CUI](https://github.com/AddyMills/Honeycomb-CUI)
+* [Guitar Hero Metronome Tools](https://www.mediafire.com/file/cx9py93jovhfiq4/Hero_Metronome.rar/file)
+* [RAD Tools](https://www.radgametools.com/)
+  
+Charting Software:
+* [Editor on Fire](https://ignition4.customsforge.com/eof)
+* [Moonscraper](https://github.com/FireFox2000000/Moonscraper-Chart-Editor)
+* [Audacity](https://www.audacityteam.org/)
