@@ -52,3 +52,12 @@ Hardware:
 * [PhunkyCustoms](https://www.phunkycustoms.com/)
 * [CRKD](https://crkd.gg/)
 * [PDP](https://pdp.com/products/playstation-riffmaster-wireless-guitar-controller)
+
+Streaming:
+* [Ouvert](https://ouvert.dev/)
+* [InputJuice](https://github.com/Ryixu/InputJuice)
+* [Chatty](https://chatty.github.io/)
+
+Emulators:
+* [RPCS3](https://rpcs3.net/)
+* [PCSX2](https://pcsx2.net/)
