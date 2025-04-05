@@ -60,7 +60,7 @@ Hardware:
 Streaming Tools:
 * [Ouvert](https://ouvert.dev/)
 * [InputJuice](https://github.com/Ryixu/InputJuice)
-* [YAID](https://github.com/raphaelgoulart/ya_inputdisplay)
+* [Yet Another Input Display](https://github.com/raphaelgoulart/ya_inputdisplay)
   
 Emulators:
 * [RPCS3](https://rpcs3.net/)
