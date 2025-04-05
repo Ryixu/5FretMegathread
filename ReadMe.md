@@ -44,3 +44,5 @@ Hardware:
 * [760Creations](https://www.760creations.com/)
 * [RetroCultMods](https://shop.retrocultmods.com/)
 * [AngelCustoms](https://angelcustomsgh.com/)
+* [CRKD](https://crkd.gg/)
+* [PhunkyCustoms](https://www.phunkycustoms.com/)
