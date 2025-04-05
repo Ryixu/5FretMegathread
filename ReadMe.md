@@ -9,7 +9,9 @@ Discords:
 * [GHWTDE](https://discord.gg/ghwtde) 
 * [CRKD](https://discord.gg/ksAbkQDJ7H) 
 * [Chorus](https://discord.gg/QwvMTbpTgc) 
-* [Moonscraper](https://discord.gg/bwEr72Ghba) 
+* [Moonscraper](https://discord.gg/bwEr72Ghba)
+* [Festival](https://discord.com/invite/fortnitefestival)
+* [Harmonix](https://discord.com/invite/harmonix)
 
 All game preserves:
 * [ArbysHasTheMeats](https://drive.google.com/drive/folders/1Qwatkm31zYjssPR9ey9CwauWSk7uQVJq)
@@ -28,7 +30,7 @@ QoL Mods:
 * [GHWTDE](https://ghwt.de/)
 
 Charts:
-* [Encore ](https://www.enchor.us/)
+* [Chorus Encore](https://www.enchor.us/)
 * [Rhythmverse ](https://rhythmverse.co/)
 * [Clone Hero Spreadsheet](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit?gid=1870223413#gid=1870223413)
 * [LaneBreakers](https://www.youtube.com/watch?v=jJLg7XB93Fg)
@@ -46,5 +48,6 @@ Hardware:
 * [760Creations](https://www.760creations.com/)
 * [RetroCultMods](https://shop.retrocultmods.com/)
 * [AngelCustoms](https://angelcustomsgh.com/)
-* [CRKD](https://crkd.gg/)
 * [PhunkyCustoms](https://www.phunkycustoms.com/)
+* [CRKD](https://crkd.gg/)
+* [PDP](https://pdp.com/products/playstation-riffmaster-wireless-guitar-controller)
