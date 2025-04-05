@@ -114,7 +114,7 @@ Community Socials:
 * DirtyHertz; [Twitch](https://www.twitch.tv/dirtyhertz_) [TikTok](https://www.tiktok.com/@dirtyhertz)
 * CarneyJared; [YouTube](https://www.youtube.com/@CarnyJared) [Twitch](https://www.twitch.tv/carnyjared) [TikTok](https://www.tiktok.com/@realcarnyjared)
 * FigNeurtered; [YouTube](https://www.youtube.com/@FigNeutered) [Twitch](https://www.twitch.tv/figneutered) [TikTok](https://www.tiktok.com/@figneutered)
-* Derpferdler; [YouTube](https://www.youtube.com/@Derpferdler) [Twitch](https://www.twitch.tv/derpferdler) [TikTok](https://www.tiktok.com/@derpferdlerr)
+* Derpferdler; [YouTube](https://www.youtube.com/@Derpferdler) [Twitch](https://www.twitch.tv/derpferdler) [TikTok](https://www.tiktok.com/@derpferdlerr) / [Twitter](https://x.com/derpferdler) [Bluesky](https://bsky.app/profile/derpferdler.bsky.social)
 * SpriteGH; [YouTube](https://www.youtube.com/@Sprite_GH) [Twitch](https://www.twitch.tv/sprite_gh)
 * Joquanmax; [YouTube](https://www.youtube.com/@joquanmax) [Twitch](https://www.twitch.tv/joquanmax) [TikTok](https://www.tiktok.com/@joquanmax) / [Twitter](https://x.com/joquanmax)
 * CartmanBrah; [Twitch](https://www.twitch.tv/cartmanbrahtv) [TikTok](https://www.tiktok.com/@cartmanbrah_tv)
