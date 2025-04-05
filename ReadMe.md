@@ -18,7 +18,8 @@ All game preserves:
 
 Clones:
 * [Clone Hero](https://clonehero.net)
-* [YARG](https://yarg.in) 
+* [YARG](https://yarg.in)
+* [Encore](https://github.com/Encore-Developers/Encore)
 
 QoL Mods:
 * [GH2DX ](https://gh2dx.milohax.org)
