@@ -6,12 +6,13 @@ Discords:
 * [NeverHax](https://discord.gg/bacw7K6jhh) 
 * [Acai](https://discord.gg/acai) 
 * [JasonParadise](https://discord.com/invite/jasonparadise) 
-* [GHWTDE](https://discord.gg/ghwtde) 
+* [Guitar Hero World Tour: Defenitive Edition](https://discord.gg/ghwtde) 
 * [CRKD](https://discord.gg/ksAbkQDJ7H) 
-* [Chorus](https://discord.gg/QwvMTbpTgc) 
+* [Chorus Encore](https://discord.gg/QwvMTbpTgc) 
 * [Moonscraper](https://discord.gg/bwEr72Ghba)
-* [Festival](https://discord.com/invite/fortnitefestival)
+* [Fortnite Festival](https://discord.com/invite/fortnitefestival)
 * [Harmonix](https://discord.com/invite/harmonix)
+* [Custom Songs Central](https://discord.gg/yM49GwwvVj)
 
 Game preserves:
 * [ArbysHasTheMeats](https://drive.google.com/drive/folders/1Qwatkm31zYjssPR9ey9CwauWSk7uQVJq)
@@ -22,15 +23,16 @@ Clones:
 * [Encore](https://github.com/Encore-Developers/Encore)
 
 QoL Mods:
-* [GH2DX ](https://gh2dx.milohax.org)
-* [GH3DX ](https://github.com/nsneverhax/guitar-hero-3-deluxe#readme)
-* [RB2DX ](https://rb2dx.milohax.org)
-* [RB3DX ](https://rb3dx.milohax.org)
+* [GH2DX](https://gh2dx.milohax.org)
+* [GH3DX](https://github.com/nsneverhax/guitar-hero-3-deluxe#readme) *can be used with GH3PC+
+* [RB2DX](https://rb2dx.milohax.org)
+* [RB3DX](https://rb3dx.milohax.org)
 * [RB4DX](https://github.com/hmxmilohax/Rock-Band-4-Deluxe#readme) 
 * [AmplitudeDX](https://github.com/hmxmilohax/Amplitude-2016-Deluxe#readme) 
 * [GHWTDE](https://ghwt.de/)
 * [RB-Patches](https://github.com/hmxmilohax/rb-patches)
 * [WoR+](https://github.com/kernaltrap8/WoR-Plus)
+* [GH3PC+](https://drive.google.com/drive/folders/1UNnDSeiN4zZDu5Xp0ZPfesJSnesd9ZOn) *can be used with GH3DX
 
 Charts:
 * [Chorus Encore](https://www.enchor.us/)
@@ -63,6 +65,10 @@ Streaming Tools:
 Emulators:
 * [RPCS3](https://rpcs3.net/)
 * [PCSX2](https://pcsx2.net/)
+* [Dolphin](https://dolphin-emu.org/)
+* [ShadPS4](https://github.com/shadps4-emu/shadPS4) - Stock
+* [ShadPS4](https://nightly.link/LlysiX/shadPS4/workflows/build/rb4-new) - RB4 Fork
+* [Xenia](https://xenia.jp/) *NOT Reccomended (use rpcs3)
   
 Guitar Tools:
 * [Festival Instrument Mapper](https://github.com/InvoxiPlayGames/FestivalInstrumentMapper)
@@ -78,3 +84,8 @@ Charting Software:
 * [Editor on Fire](https://ignition4.customsforge.com/eof)
 * [Moonscraper](https://github.com/FireFox2000000/Moonscraper-Chart-Editor)
 * [Audacity](https://www.audacityteam.org/)
+
+YouTube Videos:
+* [Iceberg](https://www.youtube.com/watch?v=Z5zV0PXkIyU)
+* [How To Install RB4 ShadPS4](https://www.youtube.com/watch?v=IweevMizZeI&t=9s)
+* [How To Install GH3DX](https://www.youtube.com/watch?v=JIK78_GxPlQ) - PC
