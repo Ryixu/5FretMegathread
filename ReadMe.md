@@ -29,6 +29,8 @@ QoL Mods:
 * [RB4DX](https://github.com/hmxmilohax/Rock-Band-4-Deluxe#readme) 
 * [AmplitudeDX](https://github.com/hmxmilohax/Amplitude-2016-Deluxe#readme) 
 * [GHWTDE](https://ghwt.de/)
+* [RB-Patches](https://github.com/hmxmilohax/rb-patches)
+* [WoR+](https://github.com/kernaltrap8/WoR-Plus)
 
 Charts:
 * [Chorus Encore](https://www.enchor.us/)
