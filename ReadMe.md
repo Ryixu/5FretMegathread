@@ -13,7 +13,7 @@ Discords:
 * [Festival](https://discord.com/invite/fortnitefestival)
 * [Harmonix](https://discord.com/invite/harmonix)
 
-All game preserves:
+Game preserves:
 * [ArbysHasTheMeats](https://drive.google.com/drive/folders/1Qwatkm31zYjssPR9ey9CwauWSk7uQVJq)
 
 Clones:
