@@ -59,7 +59,7 @@ Hardware:
 
 Streaming Tools:
 * [Ouvert](https://ouvert.dev/)
-* [InputJuice](https://github.com/Ryixu/InputJuice)
+* [InputJuice](https://github.com/Ryixu/InputJuice/releases/tag/v1.0.0)
 * [Yet Another Input Display](https://github.com/raphaelgoulart/ya_inputdisplay)
   
 Emulators:
