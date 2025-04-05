@@ -79,6 +79,8 @@ Modding Tools:
 * [Honeycomb CUI](https://github.com/AddyMills/Honeycomb-CUI)
 * [Guitar Hero Metronome Tools](https://www.mediafire.com/file/cx9py93jovhfiq4/Hero_Metronome.rar/file)
 * [RAD Tools](https://www.radgametools.com/)
+* [GHTCP](https://github.com/szymmirr/Open-GHTCP-2021)
+* [Sublime](https://www.sublimetext.com/)
   
 Charting Software:
 * [Editor on Fire](https://ignition4.customsforge.com/eof)
