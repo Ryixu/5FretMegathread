@@ -66,8 +66,8 @@ Emulators:
 * [RPCS3](https://rpcs3.net/)
 * [PCSX2](https://pcsx2.net/)
 * [Dolphin](https://dolphin-emu.org/)
-* [ShadPS4](https://github.com/shadps4-emu/shadPS4) - Stock
-* [ShadPS4](https://nightly.link/LlysiX/shadPS4/workflows/build/rb4-new) - RB4 Fork
+* [Stock ShadPS4](https://github.com/shadps4-emu/shadPS4)
+* [ShadPS4 RB4 Fork](https://nightly.link/LlysiX/shadPS4/workflows/build/rb4-new)
 * [Xenia](https://xenia.jp/) * NOT Reccomended (use rpcs3)
   
 Guitar Tools:
@@ -90,4 +90,4 @@ Charting Software:
 YouTube Videos:
 * [Iceberg](https://www.youtube.com/watch?v=Z5zV0PXkIyU)
 * [How To Install RB4 ShadPS4](https://www.youtube.com/watch?v=IweevMizZeI&t=9s)
-* [How To Install GH3DX](https://www.youtube.com/watch?v=JIK78_GxPlQ) - PC
+* [How To Install GH3DX PC](https://www.youtube.com/watch?v=JIK78_GxPlQ)
