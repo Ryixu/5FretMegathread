@@ -22,7 +22,7 @@ Clones:
 * [YARG](https://yarg.in)
 * [Encore](https://github.com/Encore-Developers/Encore)
 
-QoL Mods:
+Quality of Life Mods:
 * [GH2DX](https://gh2dx.milohax.org)
 * [GH3DX](https://github.com/nsneverhax/guitar-hero-3-deluxe#readme) * can be used with GH3PC+
 * [RB2DX](https://rb2dx.milohax.org)
@@ -43,7 +43,7 @@ Charts:
 * [Fortnite Festival Charts](https://github.com/FEStoRB/FNFestivaltoRB/)
 * [RB4 Charts](https://drive.google.com/drive/folders/16zy6DazemvIsSi6i1D7xv4zI-lQdBmph)
 
-RomHacks:
+RomHacks / Custom ISOs:
 * [Guitar Hero A7X](https://github.com/Ryixu/GuitarHeroA7X/releases)
 * [Permadeath](https://github.com/FregRB/NS-GH-Permadeath/releases)
 * [JRABES](https://drive.google.com/drive/folders/1MZ8dCnnS6nNw31tOaPJl2RwSfM5XzTAK)
@@ -86,6 +86,7 @@ Charting Software:
 * [Editor on Fire](https://ignition4.customsforge.com/eof)
 * [Moonscraper](https://github.com/FireFox2000000/Moonscraper-Chart-Editor)
 * [Audacity](https://www.audacityteam.org/)
+* [StemRoller](https://www.stemroller.com/)
 
 YouTube Videos:
 * [Iceberg](https://www.youtube.com/watch?v=Z5zV0PXkIyU)
