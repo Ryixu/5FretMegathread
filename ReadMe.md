@@ -24,7 +24,7 @@ Clones:
 
 QoL Mods:
 * [GH2DX](https://gh2dx.milohax.org)
-* [GH3DX](https://github.com/nsneverhax/guitar-hero-3-deluxe#readme) *can be used with GH3PC+
+* [GH3DX](https://github.com/nsneverhax/guitar-hero-3-deluxe#readme) * can be used with GH3PC+
 * [RB2DX](https://rb2dx.milohax.org)
 * [RB3DX](https://rb3dx.milohax.org)
 * [RB4DX](https://github.com/hmxmilohax/Rock-Band-4-Deluxe#readme) 
@@ -32,7 +32,7 @@ QoL Mods:
 * [GHWTDE](https://ghwt.de/)
 * [RB-Patches](https://github.com/hmxmilohax/rb-patches)
 * [WoR+](https://github.com/kernaltrap8/WoR-Plus)
-* [GH3PC+](https://drive.google.com/drive/folders/1UNnDSeiN4zZDu5Xp0ZPfesJSnesd9ZOn) *can be used with GH3DX
+* [GH3PC+](https://drive.google.com/drive/folders/1UNnDSeiN4zZDu5Xp0ZPfesJSnesd9ZOn) * can be used with GH3DX
 
 Charts:
 * [Chorus Encore](https://www.enchor.us/)
@@ -68,7 +68,7 @@ Emulators:
 * [Dolphin](https://dolphin-emu.org/)
 * [ShadPS4](https://github.com/shadps4-emu/shadPS4) - Stock
 * [ShadPS4](https://nightly.link/LlysiX/shadPS4/workflows/build/rb4-new) - RB4 Fork
-* [Xenia](https://xenia.jp/) *NOT Reccomended (use rpcs3)
+* [Xenia](https://xenia.jp/) * NOT Reccomended (use rpcs3)
   
 Guitar Tools:
 * [Festival Instrument Mapper](https://github.com/InvoxiPlayGames/FestivalInstrumentMapper)
