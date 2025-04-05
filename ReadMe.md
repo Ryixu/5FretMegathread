@@ -27,12 +27,14 @@ QoL Mods:
 * [AmplitudeDX](https://github.com/hmxmilohax/Amplitude-2016-Deluxe#readme) 
 * [GHWTDE](https://ghwt.de/)
 
-Custom Songs / DLC:
+Charts:
 * [Encore ](https://www.enchor.us/)
 * [Rhythmverse ](https://rhythmverse.co/)
 * [Clone Hero Spreadsheet](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit?gid=1870223413#gid=1870223413)
 * [LaneBreakers](https://www.youtube.com/watch?v=jJLg7XB93Fg)
 * [Rock Band DLC](https://docs.google.com/spreadsheets/d/1-3lo2ASxM-3yVr_JH14F7-Lc1v2_FcS5Rv_yDCANEmk/edit?gid=0#gid=0)
+* [Fortnite Festival Charts](https://github.com/FEStoRB/FNFestivaltoRB/)
+* [RB4 Charts](https://drive.google.com/drive/folders/16zy6DazemvIsSi6i1D7xv4zI-lQdBmph)
 
 RomHacks:
 * [Guitar Hero A7X](https://github.com/Ryixu/GuitarHeroA7X/releases)
