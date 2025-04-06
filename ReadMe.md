@@ -152,6 +152,7 @@ Community Socials:
 * Darkai; [YouTube](https://www.youtube.com/@DarkaiVT) [Twitch](https://www.twitch.tv/darkaivt) [TikTok](https://www.tiktok.com/@darkaivt) / [Twitter](https://x.com/DarkaiVT) [BlueSky](https://bsky.app/profile/darkaivt.bsky.social)
 * MandyRocks; [YouTube](https://www.youtube.com/@MandyRocks) [Twitch](https://www.twitch.tv/mandyr0cks) [TikTok](https://www.tiktok.com/@mandyr0cks) / [Twitter](https://x.com/Mandy_R0cks) [BlueSky](https://bsky.app/profile/mandyr0cks.bsky.social)
 * Lexegon; [YouTube](https://www.youtube.com/@lexegonyt) [Twitch](https://www.twitch.tv/lexegon) [TikTok](https://www.tiktok.com/@lexegon) / [Twitter](https://x.com/lexegon) [BlueSky](https://bsky.app/profile/lexegon.bsky.social)
+* MrElectricNick; [YouTube](https://www.youtube.com/channel/UCnrF08eM5INTSMUZzDLDVYw) [Twitch](https://www.twitch.tv/mrelectricnick) / [Twitter](https://x.com/MrElectricNick)
 * FregRB; [YouTube](https://www.youtube.com/@FregRB) [TikTok](https://www.tiktok.com/@fregrb) / [Twitter](https://x.com/FregRB) [BlueSky](https://bsky.app/profile/fregrb.bsky.social)
 * ArenEternal; [Twitch](https://www.twitch.tv/areneternal)
 
