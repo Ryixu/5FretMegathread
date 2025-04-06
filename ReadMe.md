@@ -15,6 +15,7 @@ Discords:
 * [Fortnite Festival](https://discord.com/invite/fortnitefestival)
 * [Harmonix](https://discord.com/invite/harmonix)
 * [Custom Songs Central](https://discord.gg/yM49GwwvVj)
+* [Nautilus](https://discord.gg/Bm8CYG6Pbh)
 
 Game preserves:
 * [ArbysHasTheMeats](https://drive.google.com/drive/folders/1Qwatkm31zYjssPR9ey9CwauWSk7uQVJq)
@@ -46,6 +47,8 @@ Charts:
 * [Fortnite Festival Charts](https://github.com/FEStoRB/FNFestivaltoRB/)
 * [RB4 Charts](https://drive.google.com/drive/folders/16zy6DazemvIsSi6i1D7xv4zI-lQdBmph)
 * [Rock Band DLC and Guitar Hero DLC for Console](https://docs.google.com/spreadsheets/d/1-3lo2ASxM-3yVr_JH14F7-Lc1v2_FcS5Rv_yDCANEmk/edit?pli=1&gid=0#gid=0)
+* [Nautilus](https://github.com/trojannemo/Nautilus/releases)
+* [Onyx](https://github.com/mtolly/onyx/releases)
 
 RomHacks / Custom ISOs:
 * [Guitar Hero A7X](https://github.com/Ryixu/GuitarHeroA7X/releases)
@@ -72,7 +75,7 @@ Emulators:
 * [Dolphin](https://dolphin-emu.org/) (Wii Emulator)
 * [ShadPS4](https://github.com/shadps4-emu/shadPS4) (PS4 Emulator)
 * [ShadPS4 RB4 Fork](https://nightly.link/LlysiX/shadPS4/workflows/build/rb4-new) (ShadPS4 optimized for Rock Band 4)
-* [Xenia](https://xenia.jp/) (Xbox 360 Emulator) * NOT reccomended for these games. use RPCS3 instead!
+* [Xenia](https://xenia.jp/) (Xbox 360 Emulator) * NOT reccomended for these games. use rpcs3 instead!
   
 Guitar Tools:
 * [Festival Instrument Mapper](https://github.com/InvoxiPlayGames/FestivalInstrumentMapper)
