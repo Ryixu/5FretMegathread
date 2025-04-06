@@ -1,76 +1,76 @@
 𝙏𝙝𝙞𝙨 𝙞𝙨 𝙖 𝙤𝙥𝙚𝙣 𝙨𝙤𝙪𝙧𝙘𝙚 𝙢𝙚𝙜𝙖𝙩𝙝𝙧𝙚𝙖𝙙 𝙛𝙤𝙧 𝙚𝙫𝙚𝙧𝙮𝙩𝙝𝙞𝙣𝙜 𝙂𝙪𝙞𝙩𝙖𝙧 𝙃𝙚𝙧𝙤 𝙖𝙣𝙙 𝙍𝙤𝙘𝙠 𝘽𝙖𝙣𝙙 𝙧𝙚𝙡𝙖𝙩𝙚𝙙! 𝙄𝙛 𝙮𝙤𝙪 𝙬𝙖𝙣𝙩 𝙩𝙤 𝙖𝙙𝙙 𝙨𝙤𝙢𝙚𝙩𝙝𝙞𝙣𝙜 𝙩𝙤 𝙩𝙝𝙚 𝙡𝙞𝙨𝙩 𝙤𝙧 𝙚𝙙𝙞𝙩 𝙞𝙩 𝙛𝙚𝙚𝙡 𝙛𝙧𝙚𝙚 𝙢𝙖𝙠𝙚 𝙖 𝙥𝙪𝙡𝙡 𝙧𝙚𝙦𝙪𝙚𝙨𝙩!
 
 Discords:
-* [YARG](https://discord.com/invite/sqpu4R552r)
-* [YARG Customs](https://discord.gg/ksAbkQDJ7H) 
-* [Clone Hero](https://discord.com/invite/Hsn4Cgu) 
-* [MiloHax](https://discord.gg/milohax) 
-* [NeverHax](https://discord.gg/bacw7K6jhh) 
-* [Acai](https://discord.gg/acai) 
-* [JasonParadise](https://discord.com/invite/jasonparadise) 
-* [Guitar Hero World Tour: Defenitive Edition](https://discord.gg/ghwtde) 
+* [Acai](https://discord.gg/acai)
+* [Clone Hero](https://discord.com/invite/Hsn4Cgu)
 * [CRKD](https://discord.gg/ksAbkQDJ7H) 
-* [Chorus Encore](https://discord.gg/QwvMTbpTgc) 
-* [Moonscraper](https://discord.gg/bwEr72Ghba)
-* [Fortnite Festival](https://discord.com/invite/fortnitefestival)
-* [Harmonix](https://discord.com/invite/harmonix)
+* [Chorus Encore](https://discord.gg/QwvMTbpTgc)
 * [Custom Songs Central](https://discord.gg/yM49GwwvVj)
+* [Fortnite Festival](https://discord.com/invite/fortnitefestival)
+* [Guitar Hero World Tour: Defenitive Edition](https://discord.gg/ghwtde)
+* [Harmonix](https://discord.com/invite/harmonix)
+* [JasonParadise](https://discord.com/invite/jasonparadise)
+* [MiloHax](https://discord.gg/milohax)
+* [Moonscraper](https://discord.gg/bwEr72Ghba)
 * [Nautilus](https://discord.gg/Bm8CYG6Pbh)
+* [NeverHax](https://discord.gg/bacw7K6jhh) 
+* [YARG](https://discord.com/invite/sqpu4R552r)
+* [YARG Customs](https://discord.gg/ksAbkQDJ7H)
 
 Game preserves:
 * [ArbysHasTheMeats](https://drive.google.com/drive/folders/1Qwatkm31zYjssPR9ey9CwauWSk7uQVJq)
 
 Clones:
 * [Clone Hero](https://clonehero.net) (Guitar Hero PC Clone)
-* [YARG](https://yarg.in) (Yet Another Rhythm Game) (Rock Band PC Clone)
 * [Encore](https://github.com/Encore-Developers/Encore) (Fortnite Festival Clone)
 * [Fret Smasher](https://store.steampowered.com/app/1420420/Fret_Smasher/) (You need to get accepted to the playtest to play it)
+* [YARG](https://yarg.in) (Yet Another Rhythm Game) (Rock Band PC Clone)
 
 Quality of Life Mods:
+* [AmplitudeDX](https://github.com/hmxmilohax/Amplitude-2016-Deluxe#readme)
 * [GH2DX](https://gh2dx.milohax.org)
 * [GH3DX](https://github.com/nsneverhax/guitar-hero-3-deluxe#readme) * can be used with GH3PC+
+* [GH3PC+](https://drive.google.com/drive/folders/1UNnDSeiN4zZDu5Xp0ZPfesJSnesd9ZOn) * can be used with GH3DX
+* [Guitar Hero World Tour: Definitive Edition](https://ghwt.de/)
+* [RB-Patches](https://github.com/hmxmilohax/rb-patches)
 * [RB2DX](https://rb2dx.milohax.org)
 * [RB3DX](https://rb3dx.milohax.org)
 * [RB4DX](https://github.com/hmxmilohax/Rock-Band-4-Deluxe#readme) 
-* [AmplitudeDX](https://github.com/hmxmilohax/Amplitude-2016-Deluxe#readme) 
-* [Guitar Hero World Tour: Definitive Edition](https://ghwt.de/)
-* [RB-Patches](https://github.com/hmxmilohax/rb-patches)
 * [WoR+](https://github.com/kernaltrap8/WoR-Plus)
-* [GH3PC+](https://drive.google.com/drive/folders/1UNnDSeiN4zZDu5Xp0ZPfesJSnesd9ZOn) * can be used with GH3DX
 
 Charts:
 * [Chorus Encore](https://www.enchor.us/)
-* [Rhythmverse ](https://rhythmverse.co/)
 * [Clone Hero Spreadsheet](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit?gid=1870223413#gid=1870223413)
-* [LaneBreakers](https://www.youtube.com/watch?v=jJLg7XB93Fg)
-* [Rock Band DLC](https://docs.google.com/spreadsheets/d/1-3lo2ASxM-3yVr_JH14F7-Lc1v2_FcS5Rv_yDCANEmk/edit?gid=0#gid=0)
 * [Fortnite Festival Charts](https://github.com/FEStoRB/FNFestivaltoRB/)
+* [LaneBreakers](https://www.youtube.com/watch?v=jJLg7XB93Fg)
+* [Rhythmverse ](https://rhythmverse.co/)
+* [Rock Band DLC](https://docs.google.com/spreadsheets/d/1-3lo2ASxM-3yVr_JH14F7-Lc1v2_FcS5Rv_yDCANEmk/edit?gid=0#gid=0)
 * [RB4 Charts](https://drive.google.com/drive/folders/16zy6DazemvIsSi6i1D7xv4zI-lQdBmph)
 * [Rock Band DLC and Guitar Hero DLC for Console](https://docs.google.com/spreadsheets/d/1-3lo2ASxM-3yVr_JH14F7-Lc1v2_FcS5Rv_yDCANEmk/edit?pli=1&gid=0#gid=0)
 
 RomHacks / Custom ISOs:
-* [Guitar Hero A7X](https://github.com/Ryixu/GuitarHeroA7X/releases)
-* [Permadeath](https://github.com/FregRB/NS-GH-Permadeath/releases)
-* [JRABES](https://drive.google.com/drive/folders/1MZ8dCnnS6nNw31tOaPJl2RwSfM5XzTAK)
 * [Custom ISO's](https://docs.google.com/spreadsheets/d/1k75r286Z-JAJtnIrpLd4Isk-VCmwtU8LNCZJhxyJ714/edit?gid=2028105666#gid=2028105666) * not all work
+* [Guitar Hero A7X](https://github.com/Ryixu/GuitarHeroA7X/releases)
+* [JRABES](https://drive.google.com/drive/folders/1MZ8dCnnS6nNw31tOaPJl2RwSfM5XzTAK)
+* [Permadeath](https://github.com/FregRB/NS-GH-Permadeath/releases)
 
 Hardware:
 * [760Creations](https://www.760creations.com/)
-* [RetroCultMods](https://shop.retrocultmods.com/)
 * [AngelCustoms](https://angelcustomsgh.com/)
-* [PhunkyCustoms](https://www.phunkycustoms.com/)
 * [CRKD](https://crkd.gg/)
+* [PhunkyCustoms](https://www.phunkycustoms.com/)
 * [PDP](https://pdp.com/products/playstation-riffmaster-wireless-guitar-controller)
+* [RetroCultMods](https://shop.retrocultmods.com/)
 
 Streaming Tools:
-* [Ouvert](https://ouvert.dev/)
 * [InputJuice](https://github.com/Ryixu/InputJuice/releases/tag/v1.0.0)
+* [Ouvert](https://ouvert.dev/)
 * [Yet Another Input Display](https://github.com/raphaelgoulart/ya_inputdisplay)
   
 Emulators:
-* [RPCS3](https://rpcs3.net/) (PS3 Emulator)
-* [PCSX2](https://pcsx2.net/) (PS2 Emualtor)
 * [Dolphin](https://dolphin-emu.org/) (Wii Emulator)
+* [PCSX2](https://pcsx2.net/) (PS2 Emualtor)
+* [RPCS3](https://rpcs3.net/) (PS3 Emulator)
 * [ShadPS4](https://github.com/shadps4-emu/shadPS4) (PS4 Emulator)
 * [ShadPS4 RB4 Fork](https://nightly.link/LlysiX/shadPS4/workflows/build/rb4-new) (ShadPS4 optimized for Rock Band 4)
 * [Xenia](https://xenia.jp/) (Xbox 360 Emulator) * NOT reccomended for these games. use rpcs3 instead!
@@ -81,16 +81,16 @@ Guitar Tools:
 * [Santroller](https://github.com/Santroller/Santroller)
   
 Modding Tools:
+* [Guitar Hero Metronome Tools](https://www.mediafire.com/file/cx9py93jovhfiq4/Hero_Metronome.rar/file)
+* [GHTCP](https://github.com/szymmirr/Open-GHTCP-2021)
 * [Honeycomb GUI](https://github.com/AddyMills/Honeycomb-GUI)
 * [Honeycomb CUI](https://github.com/AddyMills/Honeycomb-CUI)
-* [Guitar Hero Metronome Tools](https://www.mediafire.com/file/cx9py93jovhfiq4/Hero_Metronome.rar/file)
-* [RAD Tools](https://www.radgametools.com/)
-* [GHTCP](https://github.com/szymmirr/Open-GHTCP-2021)
-* [Sublime](https://www.sublimetext.com/)
 * [Nautilus](https://github.com/trojannemo/Nautilus/releases)
+* [Sublime](https://www.sublimetext.com/)
+* [RAD Tools](https://www.radgametools.com/)
 * [Onyx](https://github.com/mtolly/onyx/releases)
   
-Charting Software:
+Charting Software: - TODO; Sort via 123ABC below
 * [Editor on Fire](https://ignition4.customsforge.com/eof)
 * [Moonscraper](https://github.com/FireFox2000000/Moonscraper-Chart-Editor)
 * [Audacity](https://www.audacityteam.org/)
