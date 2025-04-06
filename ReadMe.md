@@ -17,6 +17,7 @@ Discords:
 * [NeverHax](https://discord.gg/bacw7K6jhh)
 * [PCSX2](https://discord.com/invite/TCz3t9k)
 * [RPCS3](https://discord.com/invite/RPCS3)
+* [SCU (Small Charters United)](https://discord.gg/rrdBXNZrgv)
 * [Xenia](https://discord.com/invite/Q9mxZf9)
 * [YARG](https://discord.com/invite/sqpu4R552r)
 * [YARG Customs](https://discord.gg/ksAbkQDJ7H)
