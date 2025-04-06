@@ -22,7 +22,7 @@ Game preserves:
 Clones:
 * [Clone Hero](https://clonehero.net) (Guitar Hero PC Clone)
 * [YARG](https://yarg.in) (Yet Another Rhythm Game) (Rock Band PC Clone)
-* [Encore](https://github.com/Encore-Developers/Encore)
+* [Encore](https://github.com/Encore-Developers/Encore) (Fortnite Festival Clone)
 * [Fret Smasher](https://store.steampowered.com/app/1420420/Fret_Smasher/) (You need to get accepted to the playtest to play it)
 
 Quality of Life Mods:
