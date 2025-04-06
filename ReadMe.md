@@ -49,7 +49,7 @@ RomHacks / Custom ISOs:
 * [Guitar Hero A7X](https://github.com/Ryixu/GuitarHeroA7X/releases)
 * [Permadeath](https://github.com/FregRB/NS-GH-Permadeath/releases)
 * [JRABES](https://drive.google.com/drive/folders/1MZ8dCnnS6nNw31tOaPJl2RwSfM5XzTAK)
-* [Custom ISO's (not all work)](https://docs.google.com/spreadsheets/d/1k75r286Z-JAJtnIrpLd4Isk-VCmwtU8LNCZJhxyJ714/edit?gid=2028105666#gid=2028105666)
+* [Custom ISO's](https://docs.google.com/spreadsheets/d/1k75r286Z-JAJtnIrpLd4Isk-VCmwtU8LNCZJhxyJ714/edit?gid=2028105666#gid=2028105666) * not all work
 
 Hardware:
 * [760Creations](https://www.760creations.com/)
