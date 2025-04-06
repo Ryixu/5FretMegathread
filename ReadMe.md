@@ -91,12 +91,13 @@ Modding Tools:
 * [Onyx](https://github.com/mtolly/onyx/releases)
   
 Charting Software: - TODO; Sort via 123ABC below
+* [Audacity](https://www.audacityteam.org/)
+* [Demucs](https://github.com/CarlGao4/Demucs-Gui)
 * [Editor on Fire](https://ignition4.customsforge.com/eof)
 * [Moonscraper](https://github.com/FireFox2000000/Moonscraper-Chart-Editor)
-* [Audacity](https://www.audacityteam.org/)
-* [StemRoller](https://www.stemroller.com/)
-* [Demucs](https://github.com/CarlGao4/Demucs-Gui)
 * [Reaper](https://www.reaper.fm/)
+* [StemRoller](https://www.stemroller.com/)
+
 
 YouTube Videos:
 * [Iceberg](https://www.youtube.com/watch?v=Z5zV0PXkIyU)
