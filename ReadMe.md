@@ -1,3 +1,6 @@
+This is a open source megathread for everything Guitar Hero and Rock Band related! If you want to add something to the list or edit it feel free make a pull request!
+* TROLLS WILL BE DENIED *
+
 Discords:
 * [YARG](https://discord.com/invite/sqpu4R552r)
 * [YARG Customs](https://discord.gg/ksAbkQDJ7H) 
