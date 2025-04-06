@@ -20,6 +20,7 @@ Discords:
 * [Xenia](https://discord.com/invite/Q9mxZf9)
 * [YARG](https://discord.com/invite/sqpu4R552r)
 * [YARG Customs](https://discord.gg/ksAbkQDJ7H)
+* [SCU (Small Charters United)](https://discord.gg/rrdBXNZrgv)
 
 Game preserves:
 * [ArbysHasTheMeats](https://drive.google.com/drive/folders/1Qwatkm31zYjssPR9ey9CwauWSk7uQVJq)
