@@ -70,8 +70,8 @@ Emulators:
 * [RPCS3](https://rpcs3.net/) (PS3 Emulator)
 * [PCSX2](https://pcsx2.net/) (PS2 Emualtor)
 * [Dolphin](https://dolphin-emu.org/) (Wii Emulator)
-* [Stock ShadPS4](https://github.com/shadps4-emu/shadPS4) (PS4 Emulator)
-* [ShadPS4 RB4 Fork](https://nightly.link/LlysiX/shadPS4/workflows/build/rb4-new)
+* [ShadPS4](https://github.com/shadps4-emu/shadPS4) (PS4 Emulator)
+* [ShadPS4 RB4 Fork](https://nightly.link/LlysiX/shadPS4/workflows/build/rb4-new) (ShadPS4 optimized for Rock Band 4)
 * [Xenia](https://xenia.jp/) (Xbox 360 Emulator) * NOT Reccomended for these games. Use RPCS3 instead!
   
 Guitar Tools:
