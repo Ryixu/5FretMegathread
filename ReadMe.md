@@ -6,6 +6,7 @@ Discords:
 * [CRKD](https://discord.gg/ksAbkQDJ7H) 
 * [Chorus Encore](https://discord.gg/QwvMTbpTgc)
 * [Custom Songs Central](https://discord.gg/yM49GwwvVj)
+* [Dolphin](https://discord.com/invite/dolphin-emu)
 * [Fortnite Festival](https://discord.com/invite/fortnitefestival)
 * [Guitar Hero World Tour: Defenitive Edition](https://discord.gg/ghwtde)
 * [Harmonix](https://discord.com/invite/harmonix)
@@ -13,7 +14,10 @@ Discords:
 * [MiloHax](https://discord.gg/milohax)
 * [Moonscraper](https://discord.gg/bwEr72Ghba)
 * [Nautilus](https://discord.gg/Bm8CYG6Pbh)
-* [NeverHax](https://discord.gg/bacw7K6jhh) 
+* [NeverHax](https://discord.gg/bacw7K6jhh)
+* [PCSX2](https://discord.com/invite/TCz3t9k)
+* [RPCS3](https://discord.com/invite/RPCS3)
+* [Xenia](https://discord.com/invite/Q9mxZf9)
 * [YARG](https://discord.com/invite/sqpu4R552r)
 * [YARG Customs](https://discord.gg/ksAbkQDJ7H)
 
@@ -41,6 +45,7 @@ Quality of Life Mods:
 Charts:
 * [Chorus Encore](https://www.enchor.us/)
 * [Clone Hero Spreadsheet](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit?gid=1870223413#gid=1870223413)
+* [Full Album/Discog/Long Chart Spreadsheet](https://docs.google.com/spreadsheets/u/4/d/13Uv6qJ1DTnkpq9V_LgEjwPfMGmlqLGWSLnoQUh0OFSA/htmlview?pli=1#)
 * [Fortnite Festival Charts](https://github.com/FEStoRB/FNFestivaltoRB/)
 * [LaneBreakers](https://www.youtube.com/watch?v=jJLg7XB93Fg)
 * [Rhythmverse ](https://rhythmverse.co/)
@@ -70,6 +75,7 @@ Streaming Tools:
 Emulators:
 * [Dolphin](https://dolphin-emu.org/) (Wii Emulator)
 * [PCSX2](https://pcsx2.net/) (PS2 Emualtor)
+* [PS3 Disc Dumper](https://github.com/13xforever/ps3-disc-dumper/releases)
 * [RPCS3](https://rpcs3.net/) (PS3 Emulator)
 * [ShadPS4](https://github.com/shadps4-emu/shadPS4) (PS4 Emulator)
 * [ShadPS4 RB4 Fork](https://nightly.link/LlysiX/shadPS4/workflows/build/rb4-new) (ShadPS4 optimized for Rock Band 4)
@@ -90,12 +96,17 @@ Modding Tools:
 * [RAD Tools](https://www.radgametools.com/)
 * [Onyx](https://github.com/mtolly/onyx/releases)
   
-Charting Software: - TODO; Sort via 123ABC below
+Charting Software:
 * [Audacity](https://www.audacityteam.org/)
+* [Cobalt](https://cobalt.tools/)
+* [COV](https://covers.musichoarders.xyz/)
 * [Demucs](https://github.com/CarlGao4/Demucs-Gui)
 * [Editor on Fire](https://ignition4.customsforge.com/eof)
+* [Lucida](https://lucida.to/)
+* [Lyric Hyphenator](https://juiciobrennan.com/hyphenator/)
 * [Moonscraper](https://github.com/FireFox2000000/Moonscraper-Chart-Editor)
 * [Reaper](https://www.reaper.fm/)
+* [SoulSeek](https://www.slsknet.org/news/)
 * [StemRoller](https://www.stemroller.com/)
 
 
@@ -108,6 +119,10 @@ YouTube Videos:
 * [RGH Setup Guide](https://youtu.be/CzZpAcCc42M)
 * [Xbox 360 Pal Guide](https://www.youtube.com/watch?v=0vOnXxlL0NU)
 * [Xbox 360 Transfer Game Saves](https://www.youtube.com/watch?v=iuwlny3bFXk)
+
+Misc Content:
+* [Guitar Hero Score Hero](https://www.scorehero.com/)
+* [Rock Band Score Hero](https://rockband.scorehero.com/)
 
 Community Socials:
 * LoreHero; [YouTube](https://www.youtube.com/@LoreHeroPodcast) / [Twitter](https://x.com/LoreHeroPodcast) [BlueSky](https://bsky.app/profile/loreheropodcast.bsky.social)
