@@ -47,8 +47,6 @@ Charts:
 * [Fortnite Festival Charts](https://github.com/FEStoRB/FNFestivaltoRB/)
 * [RB4 Charts](https://drive.google.com/drive/folders/16zy6DazemvIsSi6i1D7xv4zI-lQdBmph)
 * [Rock Band DLC and Guitar Hero DLC for Console](https://docs.google.com/spreadsheets/d/1-3lo2ASxM-3yVr_JH14F7-Lc1v2_FcS5Rv_yDCANEmk/edit?pli=1&gid=0#gid=0)
-* [Nautilus](https://github.com/trojannemo/Nautilus/releases)
-* [Onyx](https://github.com/mtolly/onyx/releases)
 
 RomHacks / Custom ISOs:
 * [Guitar Hero A7X](https://github.com/Ryixu/GuitarHeroA7X/releases)
@@ -89,6 +87,8 @@ Modding Tools:
 * [RAD Tools](https://www.radgametools.com/)
 * [GHTCP](https://github.com/szymmirr/Open-GHTCP-2021)
 * [Sublime](https://www.sublimetext.com/)
+* [Nautilus](https://github.com/trojannemo/Nautilus/releases)
+* [Onyx](https://github.com/mtolly/onyx/releases)
   
 Charting Software:
 * [Editor on Fire](https://ignition4.customsforge.com/eof)
