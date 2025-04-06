@@ -1,5 +1,4 @@
-This is a open source megathread for everything Guitar Hero and Rock Band related! If you want to add something to the list or edit it feel free make a pull request!
-* TROLLS WILL BE DENIED *
+𝙏𝙝𝙞𝙨 𝙞𝙨 𝙖 𝙤𝙥𝙚𝙣 𝙨𝙤𝙪𝙧𝙘𝙚 𝙢𝙚𝙜𝙖𝙩𝙝𝙧𝙚𝙖𝙙 𝙛𝙤𝙧 𝙚𝙫𝙚𝙧𝙮𝙩𝙝𝙞𝙣𝙜 𝙂𝙪𝙞𝙩𝙖𝙧 𝙃𝙚𝙧𝙤 𝙖𝙣𝙙 𝙍𝙤𝙘𝙠 𝘽𝙖𝙣𝙙 𝙧𝙚𝙡𝙖𝙩𝙚𝙙! 𝙄𝙛 𝙮𝙤𝙪 𝙬𝙖𝙣𝙩 𝙩𝙤 𝙖𝙙𝙙 𝙨𝙤𝙢𝙚𝙩𝙝𝙞𝙣𝙜 𝙩𝙤 𝙩𝙝𝙚 𝙡𝙞𝙨𝙩 𝙤𝙧 𝙚𝙙𝙞𝙩 𝙞𝙩 𝙛𝙚𝙚𝙡 𝙛𝙧𝙚𝙚 𝙢𝙖𝙠𝙚 𝙖 𝙥𝙪𝙡𝙡 𝙧𝙚𝙦𝙪𝙚𝙨𝙩!
 
 Discords:
 * [YARG](https://discord.com/invite/sqpu4R552r)
