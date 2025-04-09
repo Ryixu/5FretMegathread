@@ -45,14 +45,19 @@ Quality of Life Mods:
 
 Charts:
 * [Chorus Encore](https://www.enchor.us/)
+* [Clone Hero Charter Commission Sheet](https://docs.google.com/spreadsheets/d/1B_JHc8FvpHqAYcCJKHSzTF-6yZE8wU_eeq2TDKszgl4/edit)
 * [Clone Hero Spreadsheet](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit?gid=1870223413#gid=1870223413)
 * [Full Album/Discog/Long Chart Spreadsheet](https://docs.google.com/spreadsheets/u/4/d/13Uv6qJ1DTnkpq9V_LgEjwPfMGmlqLGWSLnoQUh0OFSA/htmlview?pli=1#)
 * [Fortnite Festival Charts](https://github.com/FEStoRB/FNFestivaltoRB/)
 * [LaneBreakers](https://www.youtube.com/watch?v=jJLg7XB93Fg)
+* [Meme Charts](https://drive.google.com/drive/folders/12EFOWuthnQ66wcJyLkxH9KSGIDPdQbAf?usp=sharing) (If yall know anymore contact SpriteGH on Discord)
 * [Rhythmverse ](https://rhythmverse.co/)
 * [Rock Band DLC](https://docs.google.com/spreadsheets/d/1-3lo2ASxM-3yVr_JH14F7-Lc1v2_FcS5Rv_yDCANEmk/edit?gid=0#gid=0)
 * [RB4 Charts](https://drive.google.com/drive/folders/16zy6DazemvIsSi6i1D7xv4zI-lQdBmph)
 * [Rock Band DLC and Guitar Hero DLC for Console](https://docs.google.com/spreadsheets/d/1-3lo2ASxM-3yVr_JH14F7-Lc1v2_FcS5Rv_yDCANEmk/edit?pli=1&gid=0#gid=0)
+  
+
+  
 
 RomHacks / Custom ISOs:
 * [Custom ISO's](https://docs.google.com/spreadsheets/d/1k75r286Z-JAJtnIrpLd4Isk-VCmwtU8LNCZJhxyJ714/edit?gid=2028105666#gid=2028105666) * not all work
