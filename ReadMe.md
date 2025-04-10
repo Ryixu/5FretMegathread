@@ -166,7 +166,8 @@ Charting Misc:
 
 
 YouTube Videos:
-* [Iceberg](https://www.youtube.com/watch?v=Z5zV0PXkIyU)
+* GH2 Permadeath; [Documentary](https://www.youtube.com/watch?v=L3rIEH37nws) / [Full Stream](https://youtu.be/dFnsre-g_94)
+* [Iceberg](https://www.youtube.com/watch?v=Z5zV0PXkIyU) 
 * [How To Install RB4 ShadPS4](https://www.youtube.com/watch?v=IweevMizZeI&t=9s)
 * [How To Install GH3DX PC](https://www.youtube.com/watch?v=JIK78_GxPlQ)
 * [How To Use Guitar On RPCS3](https://www.youtube.com/watch?v=GfUOb1l86fQ)
