@@ -11,6 +11,8 @@ Discords:
 * [Guitar Hero World Tour: Defenitive Edition](https://discord.gg/ghwtde)
 * [Harmonix](https://discord.com/invite/harmonix)
 * [JasonParadise](https://discord.com/invite/jasonparadise)
+* [Lucida](https://discord.gg/mDzsraaxBd)
+* [LyricAdder](https://discord.gg/bt2ntwx)
 * [MiloHax](https://discord.gg/milohax)
 * [Moonscraper](https://discord.gg/bwEr72Ghba)
 * [Nautilus](https://discord.gg/Bm8CYG6Pbh)
@@ -104,6 +106,7 @@ Modding Tools:
   
 Charting Software:
 * [Audacity](https://www.audacityteam.org/)
+* [Clone Hero CLI Launcher](https://drive.google.com/file/d/1AM43m88Un80IZsZoI_AfBIrUjpgM_0H8/view)
 * [Cobalt](https://cobalt.tools/)
 * [COV](https://covers.musichoarders.xyz/)
 * [Demucs](https://github.com/CarlGao4/Demucs-Gui)
@@ -114,6 +117,15 @@ Charting Software:
 * [Reaper](https://www.reaper.fm/)
 * [SoulSeek](https://www.slsknet.org/news/)
 * [StemRoller](https://www.stemroller.com/)
+
+
+Charting Tutorials:
+* [0-10 Charting Difficulty Guide](https://docs.google.com/document/d/1Yj0vfvroBsVNCvLCuBoSCLCwKT9sZUH6ELnTwjsjYr0/edit?tab=t.0#heading=h.9ems82oir8ny)
+* [YourDustyGuitar's Charting Guides](https://www.youtube.com/playlist?list=PLKRMjhBxVwV60uQRSIgs30WeZW4-AyBF4)
+
+
+Charting Misc:
+* [Clone Hero Icon Repository](https://gitlab.com/clonehero/sources/)
 
 
 YouTube Videos:
