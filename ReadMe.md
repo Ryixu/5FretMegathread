@@ -20,6 +20,7 @@ Discords:
 * [Nautilus](https://discord.gg/Bm8CYG6Pbh)
 * [NeverHax](https://discord.gg/bacw7K6jhh)
 * [PCSX2](https://discord.com/invite/TCz3t9k)
+* [Rhythmverse](https://discord.com/invite/N6Mpv8p6F4)
 * [RPCS3](https://discord.com/invite/RPCS3)
 * [SCU (Small Charters United)](https://discord.gg/rrdBXNZrgv)
 * [Xenia](https://discord.com/invite/Q9mxZf9)
@@ -95,9 +96,6 @@ Charts:
 * [Rock Band DLC](https://docs.google.com/spreadsheets/d/1-3lo2ASxM-3yVr_JH14F7-Lc1v2_FcS5Rv_yDCANEmk/edit?gid=0#gid=0)
 * [RB4 Charts](https://drive.google.com/drive/folders/16zy6DazemvIsSi6i1D7xv4zI-lQdBmph)
 * [Rock Band DLC and Guitar Hero DLC for Console](https://docs.google.com/spreadsheets/d/1-3lo2ASxM-3yVr_JH14F7-Lc1v2_FcS5Rv_yDCANEmk/edit?pli=1&gid=0#gid=0)
-  
-
-  
 
 RomHacks / Custom ISOs:
 * [Custom ISO's](https://docs.google.com/spreadsheets/d/1k75r286Z-JAJtnIrpLd4Isk-VCmwtU8LNCZJhxyJ714/edit?gid=2028105666#gid=2028105666) * not all work
@@ -114,8 +112,11 @@ Hardware:
 * [RetroCultMods](https://shop.retrocultmods.com/)
 
 Streaming Tools:
+* [Chatty](https://chatty.github.io/)
 * [InputJuice](https://github.com/Ryixu/InputJuice/releases/tag/v1.0.0)
+* [OBS](https://obsproject.com/)
 * [Ouvert](https://ouvert.dev/)
+* [Restream](https://app.restream.io)
 * [Yet Another Input Display](https://github.com/raphaelgoulart/ya_inputdisplay)
   
 Emulators:
@@ -150,21 +151,20 @@ Charting Software:
 * [Demucs](https://github.com/CarlGao4/Demucs-Gui)
 * [Editor on Fire](https://ignition4.customsforge.com/eof)
 * [Lucida](https://lucida.to/)
+* [LyricAdder](https://drive.google.com/open?id=1tCrJfplynpF6XEYBnjZCUH9FMa9F0M1o)
 * [Lyric Hyphenator](https://juiciobrennan.com/hyphenator/)
 * [Moonscraper](https://github.com/FireFox2000000/Moonscraper-Chart-Editor)
 * [Reaper](https://www.reaper.fm/)
 * [SoulSeek](https://www.slsknet.org/news/)
 * [StemRoller](https://www.stemroller.com/)
 
-
 Charting Tutorials:
 * [0-10 Charting Difficulty Guide](https://docs.google.com/document/d/1Yj0vfvroBsVNCvLCuBoSCLCwKT9sZUH6ELnTwjsjYr0/edit?tab=t.0#heading=h.9ems82oir8ny)
+* [Star Power Guide](https://docs.google.com/document/d/1bvAJk8B87tRogVhDjgGGHNzso4IP2b55uptIiRBEJA0/edit?tab=t.0)
 * [YourDustyGuitar's Charting Guides](https://www.youtube.com/playlist?list=PLKRMjhBxVwV60uQRSIgs30WeZW4-AyBF4)
-
 
 Charting Misc:
 * [Clone Hero Icon Repository](https://gitlab.com/clonehero/sources/)
-
 
 YouTube Videos:
 * GH2 Permadeath; [Documentary](https://www.youtube.com/watch?v=L3rIEH37nws) / [Full Stream](https://youtu.be/dFnsre-g_94)
