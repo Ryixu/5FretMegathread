@@ -20,6 +20,7 @@ Discords:
 * [Nautilus](https://discord.gg/Bm8CYG6Pbh)
 * [NeverHax](https://discord.gg/bacw7K6jhh)
 * [PCSX2](https://discord.com/invite/TCz3t9k)
+* [Rhythmverse](https://discord.com/invite/N6Mpv8p6F4)
 * [RPCS3](https://discord.com/invite/RPCS3)
 * [SCU (Small Charters United)](https://discord.gg/rrdBXNZrgv)
 * [Xenia](https://discord.com/invite/Q9mxZf9)
