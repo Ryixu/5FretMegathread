@@ -2,6 +2,7 @@
 
 Discords:
 * [Acai](https://discord.gg/acai)
+* [aWiseMoose](https://discord.gg/awisemoose)
 * [Clone Hero](https://discord.com/invite/Hsn4Cgu)
 * [CRKD](https://discord.gg/ksAbkQDJ7H) 
 * [Chorus Encore](https://discord.gg/QwvMTbpTgc)
@@ -30,7 +31,7 @@ Community Socials:
 * Acai; [YouTube](https://www.youtube.com/@acai28) [Twitch](https://www.twitch.tv/acai) [TikTok](https://www.tiktok.com/@acai28) / [Twitter](https://x.com/Acai28) [BlueSky](https://bsky.app/profile/acai.bsky.social)
 * AceZeroRB; [YouTube](https://www.youtube.com/@TheAcezero12078) [Twitch](https://www.twitch.tv/acezerorb) / [Twitter](https://x.com/AcezeroRB)
 * ArenEternal; [Twitch](https://www.twitch.tv/areneternal)
-* aWiseMoose; (guitarheroROXS) [YouTube](https://www.youtube.com/@aWiseMoose/featured) [Twitch](https://www.twitch.tv/awisemoose) [TikTok](https://www.tiktok.com/@a.wisemoose) / [Twitter](https://x.com/aWiseMoose) [BlueSky](https://bsky.app/profile/did:plc:5ijozdxbi7b2gsqih6mii2zv)
+* aWiseMoose; [YouTube](https://www.youtube.com/@aWiseMoose/featured) [Twitch](https://www.twitch.tv/awisemoose) [TikTok](https://www.tiktok.com/@a.wisemoose) / [Twitter](https://x.com/aWiseMoose) [BlueSky](https://bsky.app/profile/did:plc:5ijozdxbi7b2gsqih6mii2zv)
 * BBPGames; (Creator of Fret Smasher) [Twitch](https://www.twitch.tv/bbpgames). [Twitter](https://x.com/BBPGames).
 * CarneyJared; [YouTube](https://www.youtube.com/@CarnyJared) [Twitch](https://www.twitch.tv/carnyjared) [TikTok](https://www.tiktok.com/@realcarnyjared)
 * CartmanBrah; [Twitch](https://www.twitch.tv/cartmanbrahtv) [TikTok](https://www.tiktok.com/@cartmanbrah_tv)\
