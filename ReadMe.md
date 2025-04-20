@@ -4,6 +4,7 @@ Discords:
 * [Acai](https://discord.gg/acai)
 * [aWiseMoose](https://discord.gg/awisemoose)
 * [Clone Hero](https://discord.com/invite/Hsn4Cgu)
+* [Clone Hero Modding](https://discord.gg/DwrVqZtk3H)
 * [CRKD](https://discord.gg/ksAbkQDJ7H) 
 * [Chorus Encore](https://discord.gg/QwvMTbpTgc)
 * [Custom Songs Central](https://discord.gg/yM49GwwvVj)
