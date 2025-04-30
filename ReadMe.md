@@ -60,7 +60,7 @@ Community Socials:
 * RedSavage; [YouTube](https://www.youtube.com/channel/UCKOT20I-mH-ioSpP-uyoERg) [Twitch](https://www.twitch.tv/redsavage83) [TikTok](https://www.tiktok.com/@theredsavage)
 * SoyaDesu; [YouTube](https://www.youtube.com/@soyadesu) [Twitch](https://www.twitch.tv/soyadesu) [TikTok](https://www.tiktok.com/@soyadesuuu) / [Twitter](https://x.com/soyadesuuu) [BlueSky](https://bsky.app/profile/soya.place)
 * SpriteGH; [YouTube](https://www.youtube.com/@Sprite_GH) [Twitch](https://www.twitch.tv/sprite_gh)
-* Srylian (Creator of Clone Hero); [Twitch](https://www.twitch.tv/srylain). [Twitter](https://x.com/srylainthe2nd)
+* Srylian (Creator of Clone Hero); [Twitch](https://www.twitch.tv/srylain) / [Twitter](https://x.com/srylainthe2nd)
 * YARG; [YouTube](https://www.youtube.com/@YARGGame) / [Twitter](https://x.com/YARGGame) [Bluesky](https://bsky.app/profile/yarg.in)
 
 Game preserves:
