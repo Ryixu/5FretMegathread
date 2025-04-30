@@ -88,7 +88,7 @@ Charts:
 * [Chorus Encore](https://www.enchor.us/)
 * [Clone Hero Charter Commission Sheet](https://docs.google.com/spreadsheets/d/1B_JHc8FvpHqAYcCJKHSzTF-6yZE8wU_eeq2TDKszgl4/edit)
 * [Clone Hero Spreadsheet](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit?gid=1870223413#gid=1870223413)
-* [Fret Smasher Charts](https://steamcommunity.com/app/1648350/workshop/) (You can bring these to CH)
+* [Fret Smasher Charts](https://steamcommunity.com/app/1648350/workshop/) * can be used on Clone Hero, YARG and GHWTDE
 * [Full Album/Discog/Long Chart Spreadsheet](https://docs.google.com/spreadsheets/u/4/d/13Uv6qJ1DTnkpq9V_LgEjwPfMGmlqLGWSLnoQUh0OFSA/htmlview?pli=1#)
 * [Fortnite Festival Charts](https://github.com/FEStoRB/FNFestivaltoRB/)
 * [LaneBreakers](https://www.youtube.com/watch?v=jJLg7XB93Fg)
