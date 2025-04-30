@@ -34,13 +34,13 @@ Community Socials:
 * AceZeroRB; [YouTube](https://www.youtube.com/@TheAcezero12078) [Twitch](https://www.twitch.tv/acezerorb) / [Twitter](https://x.com/AcezeroRB)
 * ArenEternal; [Twitch](https://www.twitch.tv/areneternal)
 * aWiseMoose; [YouTube](https://www.youtube.com/@aWiseMoose/featured) [Twitch](https://www.twitch.tv/awisemoose) [TikTok](https://www.tiktok.com/@a.wisemoose) / [Twitter](https://x.com/aWiseMoose) [BlueSky](https://bsky.app/profile/did:plc:5ijozdxbi7b2gsqih6mii2zv)
-* BBPGames; (Creator of Fret Smasher) [Twitch](https://www.twitch.tv/bbpgames). [Twitter](https://x.com/BBPGames).
+* BBPGames (Creator of Fret Smasher); [Twitch](https://www.twitch.tv/bbpgames). [Twitter](https://x.com/BBPGames).
 * CarneyJared; [YouTube](https://www.youtube.com/@CarnyJared) [Twitch](https://www.twitch.tv/carnyjared) [TikTok](https://www.tiktok.com/@realcarnyjared)
 * CartmanBrah; [Twitch](https://www.twitch.tv/cartmanbrahtv) [TikTok](https://www.tiktok.com/@cartmanbrah_tv)
 * Darkai; [YouTube](https://www.youtube.com/@DarkaiVT) [Twitch](https://www.twitch.tv/darkaivt) [TikTok](https://www.tiktok.com/@darkaivt) / [Twitter](https://x.com/DarkaiVT) [BlueSky](https://bsky.app/profile/darkaivt.bsky.social)
 * Derpferdler; [YouTube](https://www.youtube.com/@Derpferdler) [Twitch](https://www.twitch.tv/derpferdler) [TikTok](https://www.tiktok.com/@derpferdlerr) / [Twitter](https://x.com/derpferdler) [BlueSky](https://bsky.app/profile/derpferdler.bsky.social)
 * DirtyHertz; [Twitch](https://www.twitch.tv/dirtyhertz_) [TikTok](https://www.tiktok.com/@dirtyhertz)
-* EliteAsian; (Creater of YARG) [YouTube](https://www.youtube.com/@eliteasian1234) [Twitch](https://www.twitch.tv/eliteasian123) / [Twitter](https://x.com/EliteAsian123)
+* EliteAsian (Creater of YARG); [YouTube](https://www.youtube.com/@eliteasian1234) [Twitch](https://www.twitch.tv/eliteasian123) / [Twitter](https://x.com/EliteAsian123)
 * FigNeurtered; [YouTube](https://www.youtube.com/@FigNeutered) [Twitch](https://www.twitch.tv/figneutered) [TikTok](https://www.tiktok.com/@figneutered)
 * FregRB; [YouTube](https://www.youtube.com/@FregRB) [TikTok](https://www.tiktok.com/@fregrb) / [Twitter](https://x.com/FregRB) [BlueSky](https://bsky.app/profile/fregrb.bsky.social)
 * Fret Smasher; [YouTube](https://www.youtube.com/channel/UC4fWocKzVZp0LSb_jtDV9HA). [Twitch](https://www.twitch.tv/fretsmasher). [Twitter](https://x.com/FretSmasher)
