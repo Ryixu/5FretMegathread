@@ -106,7 +106,6 @@ RomHacks / Custom ISOs:
 
 Hardware:
 * [760Creations](https://www.760creations.com/)
-* [AngelCustoms](https://angelcustomsgh.com/)
 * [CRKD](https://crkd.gg/)
 * [PhunkyCustoms](https://www.phunkycustoms.com/)
 * [PDP](https://pdp.com/products/playstation-riffmaster-wireless-guitar-controller)
