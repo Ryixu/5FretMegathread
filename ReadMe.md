@@ -111,6 +111,7 @@ Hardware:
 * [PhunkyCustoms](https://www.phunkycustoms.com/)
 * [PDP](https://pdp.com/products/playstation-riffmaster-wireless-guitar-controller)
 * [RetroCultMods](https://shop.retrocultmods.com/)
+* [Blue Indigo Adapter](https://www.etsy.com/listing/1397089947/blue-indigo-v4-playstation-2-guitar)
 
 Streaming Tools:
 * [Chatty](https://chatty.github.io/)
