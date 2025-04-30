@@ -23,10 +23,10 @@ Discords:
 * [PCSX2](https://discord.com/invite/TCz3t9k)
 * [Rhythmverse](https://discord.com/invite/N6Mpv8p6F4)
 * [RPCS3](https://discord.com/invite/RPCS3)
-* [SCU (Small Charters United)](https://discord.gg/rrdBXNZrgv)
+* [Small Charters United](https://discord.gg/rrdBXNZrgv)
 * [Xenia](https://discord.com/invite/Q9mxZf9)
-* [YARG](https://discord.com/invite/sqpu4R552r)
-* [YARG Customs](https://discord.gg/ksAbkQDJ7H)
+* [Yet Another Rhythm Game](https://discord.com/invite/sqpu4R552r)
+* [Customs Community (YARG Venues)](https://discord.gg/ksAbkQDJ7H)
 
 Community Socials:
 * 760Creations; [Twitch](https://www.twitch.tv/760creations) [TikTok](https://www.tiktok.com/@760.creations) / [Twitter](https://www.twitch.tv/760creations) [BlueSky](https://x.com/xX760Xx)
@@ -36,7 +36,7 @@ Community Socials:
 * aWiseMoose; [YouTube](https://www.youtube.com/@aWiseMoose/featured) [Twitch](https://www.twitch.tv/awisemoose) [TikTok](https://www.tiktok.com/@a.wisemoose) / [Twitter](https://x.com/aWiseMoose) [BlueSky](https://bsky.app/profile/did:plc:5ijozdxbi7b2gsqih6mii2zv)
 * BBPGames; (Creator of Fret Smasher) [Twitch](https://www.twitch.tv/bbpgames). [Twitter](https://x.com/BBPGames).
 * CarneyJared; [YouTube](https://www.youtube.com/@CarnyJared) [Twitch](https://www.twitch.tv/carnyjared) [TikTok](https://www.tiktok.com/@realcarnyjared)
-* CartmanBrah; [Twitch](https://www.twitch.tv/cartmanbrahtv) [TikTok](https://www.tiktok.com/@cartmanbrah_tv)\
+* CartmanBrah; [Twitch](https://www.twitch.tv/cartmanbrahtv) [TikTok](https://www.tiktok.com/@cartmanbrah_tv)
 * Darkai; [YouTube](https://www.youtube.com/@DarkaiVT) [Twitch](https://www.twitch.tv/darkaivt) [TikTok](https://www.tiktok.com/@darkaivt) / [Twitter](https://x.com/DarkaiVT) [BlueSky](https://bsky.app/profile/darkaivt.bsky.social)
 * Derpferdler; [YouTube](https://www.youtube.com/@Derpferdler) [Twitch](https://www.twitch.tv/derpferdler) [TikTok](https://www.tiktok.com/@derpferdlerr) / [Twitter](https://x.com/derpferdler) [BlueSky](https://bsky.app/profile/derpferdler.bsky.social)
 * DirtyHertz; [Twitch](https://www.twitch.tv/dirtyhertz_) [TikTok](https://www.tiktok.com/@dirtyhertz)
@@ -60,23 +60,23 @@ Community Socials:
 * RedSavage; [YouTube](https://www.youtube.com/channel/UCKOT20I-mH-ioSpP-uyoERg) [Twitch](https://www.twitch.tv/redsavage83) [TikTok](https://www.tiktok.com/@theredsavage)
 * SoyaDesu; [YouTube](https://www.youtube.com/@soyadesu) [Twitch](https://www.twitch.tv/soyadesu) [TikTok](https://www.tiktok.com/@soyadesuuu) / [Twitter](https://x.com/soyadesuuu) [BlueSky](https://bsky.app/profile/soya.place)
 * SpriteGH; [YouTube](https://www.youtube.com/@Sprite_GH) [Twitch](https://www.twitch.tv/sprite_gh)
-* Srylian; (Creator of Clone Hero) [Twitch](https://www.twitch.tv/srylain). [Twitter](https://x.com/srylainthe2nd)
+* Srylian (Creator of Clone Hero); [Twitch](https://www.twitch.tv/srylain). [Twitter](https://x.com/srylainthe2nd)
 * YARG; [YouTube](https://www.youtube.com/@YARGGame) / [Twitter](https://x.com/YARGGame) [Bluesky](https://bsky.app/profile/yarg.in)
 
 Game preserves:
 * [ArbysHasTheMeats](https://drive.google.com/drive/folders/1Qwatkm31zYjssPR9ey9CwauWSk7uQVJq)
 
 Clones:
-* [Clone Hero](https://clonehero.net) (Guitar Hero PC Clone)
-* [Encore](https://github.com/Encore-Developers/Encore) (Fortnite Festival Clone)
-* [Fret Smasher](https://store.steampowered.com/app/1420420/Fret_Smasher/) (You need to get accepted to the playtest to play it)
-* [YARG](https://yarg.in) (Yet Another Rhythm Game) (Rock Band PC Clone)
+* [Clone Hero (Guitar Hero PC Clone)](https://clonehero.net)
+* [Encore (Fortnite Festival Clone)](https://github.com/Encore-Developers/Encore)
+* [Fret Smasher](https://store.steampowered.com/app/1420420/Fret_Smasher/) * You need to get accepted
+* [Yet Another Rhythm Game (Rock Band PC Clone)](https://yarg.in)
 
 Quality of Life Mods:
 * [AmplitudeDX](https://github.com/hmxmilohax/Amplitude-2016-Deluxe#readme)
 * [GH2DX](https://gh2dx.milohax.org)
-* [GH3DX](https://github.com/nsneverhax/guitar-hero-3-deluxe#readme) * can be used with GH3PC+
-* [GH3PC+](https://drive.google.com/drive/folders/1UNnDSeiN4zZDu5Xp0ZPfesJSnesd9ZOn) * can be used with GH3DX
+* [GH3DX](https://github.com/nsneverhax/guitar-hero-3-deluxe#readme) * Can be used with GH3PC+
+* [GH3PC+](https://drive.google.com/drive/folders/1UNnDSeiN4zZDu5Xp0ZPfesJSnesd9ZOn) * Can be used with GH3DX
 * [Guitar Hero World Tour: Definitive Edition](https://ghwt.de/)
 * [RB-Patches](https://github.com/hmxmilohax/rb-patches)
 * [RB2DX](https://rb2dx.milohax.org)
@@ -88,18 +88,18 @@ Charts:
 * [Chorus Encore](https://www.enchor.us/)
 * [Clone Hero Charter Commission Sheet](https://docs.google.com/spreadsheets/d/1B_JHc8FvpHqAYcCJKHSzTF-6yZE8wU_eeq2TDKszgl4/edit)
 * [Clone Hero Spreadsheet](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit?gid=1870223413#gid=1870223413)
-* [Fret Smasher Charts](https://steamcommunity.com/app/1648350/workshop/) * can be used on Clone Hero, YARG and GHWTDE
+* [Fret Smasher Charts](https://steamcommunity.com/app/1648350/workshop/) * Can be used on Clone Hero, YARG and GHWTDE
 * [Full Album/Discog/Long Chart Spreadsheet](https://docs.google.com/spreadsheets/u/4/d/13Uv6qJ1DTnkpq9V_LgEjwPfMGmlqLGWSLnoQUh0OFSA/htmlview?pli=1#)
 * [Fortnite Festival Charts](https://github.com/FEStoRB/FNFestivaltoRB/)
 * [LaneBreakers](https://www.youtube.com/watch?v=jJLg7XB93Fg)
-* [Meme Charts](https://drive.google.com/drive/folders/12EFOWuthnQ66wcJyLkxH9KSGIDPdQbAf?usp=sharing) (If there are any missing from this drive, contact SpriteGH on Discord)
+* [Meme Charts](https://drive.google.com/drive/folders/12EFOWuthnQ66wcJyLkxH9KSGIDPdQbAf?usp=sharing) * If any are missing, Message SpriteGH on Discord
 * [Rhythmverse](https://rhythmverse.co/)
 * [Rock Band DLC](https://docs.google.com/spreadsheets/d/1-3lo2ASxM-3yVr_JH14F7-Lc1v2_FcS5Rv_yDCANEmk/edit?gid=0#gid=0)
 * [RB4 Charts](https://drive.google.com/drive/folders/16zy6DazemvIsSi6i1D7xv4zI-lQdBmph)
 * [Rock Band DLC and Guitar Hero DLC for Console](https://docs.google.com/spreadsheets/d/1-3lo2ASxM-3yVr_JH14F7-Lc1v2_FcS5Rv_yDCANEmk/edit?pli=1&gid=0#gid=0)
 
 RomHacks / Custom ISOs:
-* [Custom ISO's](https://docs.google.com/spreadsheets/d/1k75r286Z-JAJtnIrpLd4Isk-VCmwtU8LNCZJhxyJ714/edit?gid=2028105666#gid=2028105666) * not all work
+* [Custom ISO's](https://docs.google.com/spreadsheets/d/1k75r286Z-JAJtnIrpLd4Isk-VCmwtU8LNCZJhxyJ714/edit?gid=2028105666#gid=2028105666) * Not all work
 * [Guitar Hero A7X](https://github.com/Ryixu/GuitarHeroA7X/releases)
 * [JRABES](https://drive.google.com/drive/folders/1MZ8dCnnS6nNw31tOaPJl2RwSfM5XzTAK)
 * [Permadeath](https://github.com/FregRB/NS-GH-Permadeath/releases)
@@ -121,13 +121,13 @@ Streaming Tools:
 * [Yet Another Input Display](https://github.com/raphaelgoulart/ya_inputdisplay)
   
 Emulators:
-* [Dolphin](https://dolphin-emu.org/) (Wii Emulator)
-* [PCSX2](https://pcsx2.net/) (PS2 Emualtor)
+* [Dolphin (Wii Emulator)](https://dolphin-emu.org/)
+* [PCSX2 (PS2 Emualtor)](https://pcsx2.net/) 
 * [PS3 Disc Dumper](https://github.com/13xforever/ps3-disc-dumper/releases)
-* [RPCS3](https://rpcs3.net/) (PS3 Emulator)
-* [ShadPS4](https://github.com/shadps4-emu/shadPS4) (PS4 Emulator)
-* [ShadPS4 RB4 Fork](https://nightly.link/LlysiX/shadPS4/workflows/build/rb4-new) (ShadPS4 optimized for Rock Band 4)
-* [Xenia](https://xenia.jp/) (Xbox 360 Emulator) * NOT reccomended for these games. use rpcs3 instead!
+* [RPCS3 (PS3 Emulator)](https://rpcs3.net/) 
+* [ShadPS4 (PS4 Emulator)](https://github.com/shadps4-emu/shadPS4) 
+* [ShadPS4 RB4 Fork (ShadPS4 optimized for Rock Band 4)](https://nightly.link/LlysiX/shadPS4/workflows/build/rb4-new) 
+* [Xenia (Xbox 360 Emulator)](https://xenia.jp/)  * NOT reccomended for these games. USE RPCS3 INSTEAD!
   
 Guitar Tools:
 * [Festival Instrument Mapper](https://github.com/InvoxiPlayGames/FestivalInstrumentMapper)
