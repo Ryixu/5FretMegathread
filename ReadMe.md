@@ -92,7 +92,7 @@ Charts:
 * [Full Album/Discog/Long Chart Spreadsheet](https://docs.google.com/spreadsheets/u/4/d/13Uv6qJ1DTnkpq9V_LgEjwPfMGmlqLGWSLnoQUh0OFSA/htmlview?pli=1#)
 * [Fortnite Festival Charts](https://github.com/FEStoRB/FNFestivaltoRB/)
 * [LaneBreakers](https://www.youtube.com/watch?v=jJLg7XB93Fg)
-* [Meme Charts](https://drive.google.com/drive/folders/12EFOWuthnQ66wcJyLkxH9KSGIDPdQbAf?usp=sharing) * If any are missing, Message SpriteGH on Discord
+* [Meme Charts](https://drive.google.com/drive/folders/12EFOWuthnQ66wcJyLkxH9KSGIDPdQbAf?usp=sharing) * If any are missing, Message Wait... It's An Empty Bottle on Discord
 * [Rhythmverse](https://rhythmverse.co/)
 * [Rock Band DLC](https://docs.google.com/spreadsheets/d/1-3lo2ASxM-3yVr_JH14F7-Lc1v2_FcS5Rv_yDCANEmk/edit?gid=0#gid=0)
 * [RB4 Charts](https://drive.google.com/drive/folders/16zy6DazemvIsSi6i1D7xv4zI-lQdBmph)
