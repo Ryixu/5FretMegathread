@@ -85,6 +85,7 @@ Quality of Life Mods:
 * [WoR+](https://github.com/kernaltrap8/WoR-Plus)
 
 Charts:
+* [Bridge (Chorus App)](https://github.com/Geomitron/Bridge/releases/tag/v3.4.5)
 * [Chorus Encore](https://www.enchor.us/)
 * [Clone Hero Charter Commission Sheet](https://docs.google.com/spreadsheets/d/1B_JHc8FvpHqAYcCJKHSzTF-6yZE8wU_eeq2TDKszgl4/edit)
 * [Clone Hero Spreadsheet](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit?gid=1870223413#gid=1870223413)
