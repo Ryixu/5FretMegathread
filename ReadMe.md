@@ -16,32 +16,25 @@
 - [Miscellaneous](#miscellaneous)
 
 ## DISCORDS
-* [Acai](https://discord.gg/acai)
-* [aWiseMoose](https://discord.gg/awisemoose)
-* [Clone Hero](https://discord.com/invite/Hsn4Cgu)
-* [Clone Hero Modding](https://discord.gg/DwrVqZtk3H)
-* [CRKD](https://discord.gg/ksAbkQDJ7H) 
-* [Chorus Encore](https://discord.gg/QwvMTbpTgc)
-* [Custom Songs Central](https://discord.gg/yM49GwwvVj)
-* [Dolphin](https://discord.com/invite/dolphin-emu)
-* [Fortnite Festival](https://discord.com/invite/fortnitefestival)
-* [Fret Smasher](https://discord.gg/SBzFGxnW58)
-* [Guitar Hero World Tour: Defenitive Edition](https://discord.gg/ghwtde)
-* [Harmonix](https://discord.com/invite/harmonix)
-* [JasonParadise](https://discord.com/invite/jasonparadise)
-* [Lucida](https://discord.gg/mDzsraaxBd)
-* [LyricAdder](https://discord.gg/bt2ntwx)
-* [MiloHax](https://discord.gg/milohax)
-* [Moonscraper](https://discord.gg/bwEr72Ghba)
-* [Nautilus](https://discord.gg/Bm8CYG6Pbh)
-* [NeverHax](https://discord.gg/bacw7K6jhh)
-* [PCSX2](https://discord.com/invite/TCz3t9k)
-* [Rhythmverse](https://discord.com/invite/N6Mpv8p6F4)
-* [RPCS3](https://discord.com/invite/RPCS3)
-* [Small Charters United](https://discord.gg/rrdBXNZrgv)
-* [Xenia](https://discord.com/invite/Q9mxZf9)
-* [Yet Another Rhythm Game](https://discord.com/invite/sqpu4R552r)
-* [Customs Community (YARG Venues)](https://discord.gg/ksAbkQDJ7H)
+* [Acai](https://discord.gg/acai) - A King in the community.
+* [aWiseMoose](https://discord.gg/awisemoose) - A Moose... Some may even say a WISE moose...
+* [Clone Hero](https://discord.com/invite/Hsn4Cgu) - Clone Hero *(PC Clone)*
+* [Clone Hero Modding](https://discord.gg/DwrVqZtk3H) - Clone Hero Modding
+* [CRKD](https://discord.gg/ksAbkQDJ7H) - CRKD creates offical hardware! *(They are the same folks from Red Octane)*
+* [Chorus Encore](https://discord.gg/QwvMTbpTgc) - Chorus Encore is a chart hosting site. *(Discord is not very active)*
+* [Custom Songs Central](https://discord.gg/yM49GwwvVj) - CSC Hosts Clone Hero Tournaments!
+* [Fortnite Festival](https://discord.com/invite/fortnitefestival) - Fortnite Festival...
+* [Guitar Hero World Tour: Defenitive Edition](https://discord.gg/ghwtde) - Guitar Hero World Tour Mod PC. Similar to the Deluxe Mods.
+* [Harmonix](https://discord.com/invite/harmonix) - The official Harmonix Discord!
+* [JasonParadise](https://discord.com/invite/jasonparadise) - A King in the community!
+* [MiloHax](https://discord.gg/milohax) - MiloHax creates mods for Harmonix Games!
+* [Moonscraper](https://discord.gg/bwEr72Ghba) - Moonscraper is a charting software! Request features or ask for help here!
+* [Nautilus](https://discord.gg/Bm8CYG6Pbh) - Nautilus is used for importing songs into some console games!
+* [NeverHax](https://discord.gg/bacw7K6jhh) - NeverHax creates mods for Neversoft Games!
+* [Rhythmverse](https://discord.com/invite/N6Mpv8p6F4) - Rhythmverse is a Chart Hosting site focused on Console Customs.
+* [Small Charters United](https://discord.gg/rrdBXNZrgv) - SCU is a discord server for small charters!
+* [Yet Another Rhythm Game](https://discord.com/invite/sqpu4R552r) - YARG is a Rock Band Clone for PC.
+* [Customs Community](https://discord.gg/ksAbkQDJ7H) - Customs Community is primarily used for sharing custom YARG Related content. *(Mainly used for sharting 3D Venues)*
 
 ## COMMUNITY SOCIALS
 * 760Creations; [Twitch](https://www.twitch.tv/760creations) [TikTok](https://www.tiktok.com/@760.creations) / [Twitter](https://www.twitch.tv/760creations) [BlueSky](https://x.com/xX760Xx)
