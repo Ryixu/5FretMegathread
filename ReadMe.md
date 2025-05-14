@@ -165,10 +165,8 @@
   - [Clone Hero Icon Repository](https://gitlab.com/clonehero/sources/) - In-Game Icons you can link to your charts.
 
 ## YOUTUBE VIDEOS
-- Permadeath
-  - [Guitar Hero 2 Permadeath VOD](https://youtu.be/dFnsre-g_94)
-  - [Guitar Hero 2 Permadeath Documentary](https://www.youtube.com/watch?v=L3rIEH37nws)
-  - [5 Fret Iceberg (2022)](https://www.youtube.com/watch?v=Z5zV0PXkIyU)
+- Guitar Hero 2 Permadeath; [VOD](https://youtu.be/dFnsre-g_94) [Documentary](https://www.youtube.com/watch?v=L3rIEH37nws) 
+- [5 Fret Iceberg](https://www.youtube.com/watch?v=Z5zV0PXkIyU)
 
 - Tutorials
   - [Rock Band 4 PC](https://youtu.be/IweevMizZeI) - Teaches you how to setup RB4 on ShadPS4.
