@@ -154,11 +154,12 @@
 
 - Audio Editing Tools
     - [Audacity](https://www.audacityteam.org/) - Audio Editing Software
-    - Stem Splitters; [Cobolt](https://cobalt.tools/) [Demucs](https://github.com/CarlGao4/Demucs-Gui) [StemRoller](https://www.stemroller.com/)
+    - Stem Splitters; [Demucs](https://github.com/CarlGao4/Demucs-Gui) [StemRoller](https://www.stemroller.com/)
 
 - Song Downloading Tools
   - [COV](https://covers.musichoarders.xyz/) - Cover Songs
   - [Lucida](https://lucida.to/) - Offical Songs
+  - [Cobalt](https://cobalt.tools/) - YouTube Downloader
  
 - Other Tools
   - [Lyric Hyphenator](https://juiciobrennan.com/hyphenator/) - Hyphenates text into syllables. *('Wonder' -> 'Won-der')*
