@@ -34,7 +34,7 @@
 * [Rhythmverse](https://discord.com/invite/N6Mpv8p6F4) - Rhythmverse is a Chart Hosting site focused on Console Customs.
 * [Small Charters United](https://discord.gg/rrdBXNZrgv) - SCU is a discord server for small charters!
 * [Yet Another Rhythm Game](https://discord.com/invite/sqpu4R552r) - YARG is a Rock Band Clone for PC.
-* [Customs Community](https://discord.gg/ksAbkQDJ7H) - Customs Community is primarily used for sharing custom YARG Related content. *(Mainly used for sharting 3D Venues)*
+* [Customs Community](https://discord.gg/ksAbkQDJ7H) - Customs Community is primarily used for sharing custom YARG Related content. *(Mainly used for sharing 3D Venues)*
 
 ## COMMUNITY SOCIALS
 * 760Creations; [Twitch](https://www.twitch.tv/760creations) [TikTok](https://www.tiktok.com/@760.creations) / [Twitter](https://www.twitch.tv/760creations) [BlueSky](https://x.com/xX760Xx)
