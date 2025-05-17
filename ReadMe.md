@@ -17,7 +17,7 @@
 
 ## DISCORDS
 * [Acai](https://discord.gg/acai) - A King in the community.
-* [aWiseMoose](https://discord.gg/awisemoose) - A Moose... Some may even say a WISE moose...
+* [aWiseMoose](https://discord.gg/awisemoose) - A Moose... Some may even say a WISE moose... (Also known as guitarheroROXS)
 * [Clone Hero](https://discord.com/invite/Hsn4Cgu) - Clone Hero *(PC Clone)*
 * [Clone Hero Modding](https://discord.gg/DwrVqZtk3H) - Clone Hero Modding
 * [CRKD](https://discord.gg/ksAbkQDJ7H) - CRKD creates offical hardware! *(They are the same folks from Red Octane)*
@@ -41,7 +41,7 @@
 * Acai; [YouTube](https://www.youtube.com/@acai28) [Twitch](https://www.twitch.tv/acai) [TikTok](https://www.tiktok.com/@acai28) / [Twitter](https://x.com/Acai28) [BlueSky](https://bsky.app/profile/acai.bsky.social)
 * AceZeroRB; [YouTube](https://www.youtube.com/@TheAcezero12078) [Twitch](https://www.twitch.tv/acezerorb) / [Twitter](https://x.com/AcezeroRB)
 * ArenEternal; [Twitch](https://www.twitch.tv/areneternal)
-* aWiseMoose; [YouTube](https://www.youtube.com/@aWiseMoose/featured) [Twitch](https://www.twitch.tv/awisemoose) [TikTok](https://www.tiktok.com/@a.wisemoose) / [Twitter](https://x.com/aWiseMoose) [BlueSky](https://bsky.app/profile/did:plc:5ijozdxbi7b2gsqih6mii2zv)
+* aWiseMoose (Also known as guitarheroROXS); [YouTube](https://www.youtube.com/@aWiseMoose/featured) [Twitch](https://www.twitch.tv/awisemoose) [TikTok](https://www.tiktok.com/@a.wisemoose) / [Twitter](https://x.com/aWiseMoose) [BlueSky](https://bsky.app/profile/did:plc:5ijozdxbi7b2gsqih6mii2zv)
 * BBPGames (Creator of Fret Smasher); [Twitch](https://www.twitch.tv/bbpgames) / [Twitter](https://x.com/BBPGames)
 * CarneyJared; [YouTube](https://www.youtube.com/@CarnyJared) [Twitch](https://www.twitch.tv/carnyjared) [TikTok](https://www.tiktok.com/@realcarnyjared)
 * CartmanBrah; [Twitch](https://www.twitch.tv/cartmanbrahtv) [TikTok](https://www.tiktok.com/@cartmanbrah_tv)
@@ -69,6 +69,7 @@
 * SoyaDesu; [YouTube](https://www.youtube.com/@soyadesu) [Twitch](https://www.twitch.tv/soyadesu) [TikTok](https://www.tiktok.com/@soyadesuuu) / [Twitter](https://x.com/soyadesuuu) [BlueSky](https://bsky.app/profile/soya.place)
 * SpriteGH; [YouTube](https://www.youtube.com/@Sprite_GH) [Twitch](https://www.twitch.tv/sprite_gh)
 * Srylian (Creator of Clone Hero); [Twitch](https://www.twitch.tv/srylain) / [Twitter](https://x.com/srylainthe2nd)
+* Symphomatica; [Twitch](https://www.twitch.tv/symphomatica) [YouTube](https://www.youtube.com/@Symphomatica)
 * YARG; [YouTube](https://www.youtube.com/@YARGGame) / [Twitter](https://x.com/YARGGame) [Bluesky](https://bsky.app/profile/yarg.in)
 
 ## GAMES
@@ -109,7 +110,7 @@
 * [Rock Band & Guitar Hero DLC](https://docs.google.com/spreadsheets/d/1-3lo2ASxM-3yVr_JH14F7-Lc1v2_FcS5Rv_yDCANEmk/edit?pli=1&gid=0#gid=0) - DLC Packs for Console Rock Band.
 
 ## HARDWARE
-* [760Creations](https://www.760creations.com/) - A Vendor well known in the community known for fully custom controllers. Friends with Acai, aWiseMoose and JasonParadise!
+* [760Creations](https://www.760creations.com/) - A Vendor well known in the community known for fully custom controllers. Friends with Acai, aWiseMoose and JasonParadise! (Does not sell modded guitars or do guitar send ins anymore)
 * [PhunkyCustoms](https://www.phunkycustoms.com/) - A Vendor mainly known for DIY Mod Kits who also sells seperate components and fully custom wooden guitars.
 * [RetroCultMods](https://shop.retrocultmods.com/) - A Vendor in the community known for DIY Mod Kits and very reliable adapters.
 * [PDP](https://pdp.com/collections/riffmaster-wireless-guitar-controller) - An offical controller based on the Rock Band guitars. *(Just get a CRKD guitar...)*
@@ -141,14 +142,14 @@
 * [Guitar Hero Metronome Tools](https://www.mediafire.com/file/cx9py93jovhfiq4/Hero_Metronome.rar/file) - A tool used for animating in Neversoft Games.
 * [GHTCP](https://github.com/szymmirr/Open-GHTCP-2021) - Old Tool used for editing the files of Guitar Hero III PC.
 * Honeycomb; [GUI](https://github.com/AddyMills/Honeycomb-GUI) [CUI](https://github.com/AddyMills/Honeycomb-CUI) - New Tool Used for adding custom songs into Guitar Hero III PC.
-* [Nautilus](https://github.com/trojannemo/Nautilus/releases) - Lets you add custom songs to console games.
+* [Nautilus](https://github.com/trojannemo/Nautilus/releases) - Lets you add custom songs to console games. Also used for converting Rock Band 3 customs to Clone Hero like Onyx.
 * [Sublime](https://www.sublimetext.com/) - A Text editor focused on coding.
 * [RAD Tools](https://www.radgametools.com/) - Tools for BIK file editing.
 * [Onyx](https://github.com/mtolly/onyx/releases) - A Tool used for converting charts.
   
 ## CHARTING TOOLS
 - Charting Software
-  - [Moonscraper](https://github.com/FireFox2000000/Moonscraper-Chart-Editor) - New Charting Software.
+  - [Moonscraper](https://github.com/FireFox2000000/Moonscraper-Chart-Editor) - New Charting Software. More well known and used charting software.
   - [Editor on Fire](https://ignition4.customsforge.com/eof) - Old Charting Software.
   - [Reaper](https://www.reaper.fm/) - Older Charting Software. *(Used to chart on console / vocals)*
 
@@ -157,7 +158,7 @@
     - Stem Splitters; [Demucs](https://github.com/CarlGao4/Demucs-Gui) [StemRoller](https://www.stemroller.com/)
 
 - Song Downloading Tools
-  - [COV](https://covers.musichoarders.xyz/) - Cover Songs
+  - [COV](https://covers.musichoarders.xyz/) - Album Cover Downloader
   - [Lucida](https://lucida.to/) - Offical Songs
   - [Cobalt](https://cobalt.tools/) - YouTube Downloader
  
@@ -177,7 +178,7 @@
   - [RGH Setup Guide](https://youtu.be/CzZpAcCc42M) - Hardmod your Xbox 360? Heres a guide on how to set it up for these games!
   - [Xbox 360 NTSC -> PAL](https://www.youtube.com/watch?v=0vOnXxlL0NU) - Teaches you how to play PAL framerate on any region console.
   - [Xbox 360 Save Transfer](https://www.youtube.com/watch?v=iuwlny3bFXk) - Teaches you how to transfer your saves from one console to another.
-  - [0-10 Charting Difficulty Guide](https://docs.google.com/document/d/1Yj0vfvroBsVNCvLCuBoSCLCwKT9sZUH6ELnTwjsjYr0/edit?tab=t.0#heading=h.9ems82oir8ny) - Teaches you how to chart.
+  - [0-10 Charting Difficulty Guide](https://docs.google.com/document/d/1Yj0vfvroBsVNCvLCuBoSCLCwKT9sZUH6ELnTwjsjYr0/edit?tab=t.0#heading=h.9ems82oir8ny) - Used for figuring out what difficulty your chart should be.
   - [Star Power Charting Guide](https://docs.google.com/document/d/1bvAJk8B87tRogVhDjgGGHNzso4IP2b55uptIiRBEJA0/edit?tab=t.0) - Teaches you how to place starpower while charting.
   - [YourDustyGuitar's Charting Guides](https://www.youtube.com/playlist?list=PLKRMjhBxVwV60uQRSIgs30WeZW4-AyBF4) Teaches you how to chart.
 
