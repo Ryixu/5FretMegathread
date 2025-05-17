@@ -17,7 +17,7 @@
 
 ## DISCORDS
 * [Acai](https://discord.gg/acai) - A King in the community.
-* [aWiseMoose](https://discord.gg/awisemoose) - A Moose... Some may even say a WISE moose... (Also known as guitarheroROXS)
+* [aWiseMoose](https://discord.gg/awisemoose) - A Moose... Some may even say a WISE moose...
 * [Clone Hero](https://discord.com/invite/Hsn4Cgu) - Clone Hero *(PC Clone)*
 * [Clone Hero Modding](https://discord.gg/DwrVqZtk3H) - Clone Hero Modding
 * [CRKD](https://discord.gg/ksAbkQDJ7H) - CRKD creates offical hardware! *(They are the same folks from Red Octane)*
