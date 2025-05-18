@@ -71,6 +71,7 @@
 * Srylian; [Twitch](https://www.twitch.tv/srylain) / [Twitter](https://x.com/srylainthe2nd) - The creator of Clone Hero!
 * Symphomatica; [Twitch](https://www.twitch.tv/symphomatica) [YouTube](https://www.youtube.com/@Symphomatica) - Someone who plays Clone Hero!
 * YARG; [YouTube](https://www.youtube.com/@YARGGame) / [Twitter](https://x.com/YARGGame) [Bluesky](https://bsky.app/profile/yarg.in) = The offical socials for Yet Another Rhythm Game!
+* ZacoBoy01; [Twitch](https://www.twitch.tv/zacoboy01) - A friend of mine who streams Clone Hero every Friday! *(Sometimes he streams Festival as well!)*
 
 ## GAMES
 - [ArbysHasTheMeats](https://drive.google.com/drive/folders/1Qwatkm31zYjssPR9ey9CwauWSk7uQVJq) - Game Preserves / Console Games.
