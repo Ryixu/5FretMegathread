@@ -16,7 +16,7 @@
 - [Miscellaneous](#miscellaneous)
 
 ## DISCORDS
-* [Acai](https://discord.gg/acai) - A King in the community.
+* [Acai](https://discord.gg/acai) - Someone the community has looked up to for years!
 * [aWiseMoose](https://discord.gg/awisemoose) - A Moose... Some may even say a WISE moose...
 * [Clone Hero](https://discord.com/invite/Hsn4Cgu) - Clone Hero *(PC Clone)*
 * [Clone Hero Modding](https://discord.gg/DwrVqZtk3H) - Clone Hero Modding
@@ -26,7 +26,7 @@
 * [Fortnite Festival](https://discord.com/invite/fortnitefestival) - Fortnite Festival...
 * [Guitar Hero World Tour: Defenitive Edition](https://discord.gg/ghwtde) - Guitar Hero World Tour Mod PC. Similar to the Deluxe Mods.
 * [Harmonix](https://discord.com/invite/harmonix) - The official Harmonix Discord!
-* [JasonParadise](https://discord.com/invite/jasonparadise) - A King in the community!
+* [JasonParadise](https://discord.com/invite/jasonparadise) - Someone the community has looked up to for years!
 * [MiloHax](https://discord.gg/milohax) - MiloHax creates mods for Harmonix Games!
 * [Moonscraper](https://discord.gg/bwEr72Ghba) - Moonscraper is a charting software! Request features or ask for help here!
 * [Nautilus](https://discord.gg/Bm8CYG6Pbh) - Nautilus is used for importing songs into some console games!
@@ -37,40 +37,40 @@
 * [Customs Community](https://discord.gg/ksAbkQDJ7H) - Customs Community is primarily used for sharing custom YARG Related content. *(Mainly used for sharing 3D Venues)*
 
 ## COMMUNITY SOCIALS
-* 760Creations; [Twitch](https://www.twitch.tv/760creations) [TikTok](https://www.tiktok.com/@760.creations) / [Twitter](https://www.twitch.tv/760creations) [BlueSky](https://x.com/xX760Xx)
-* Acai; [YouTube](https://www.youtube.com/@acai28) [Twitch](https://www.twitch.tv/acai) [TikTok](https://www.tiktok.com/@acai28) / [Twitter](https://x.com/Acai28) [BlueSky](https://bsky.app/profile/acai.bsky.social)
-* AceZeroRB; [YouTube](https://www.youtube.com/@TheAcezero12078) [Twitch](https://www.twitch.tv/acezerorb) / [Twitter](https://x.com/AcezeroRB)
-* ArenEternal; [Twitch](https://www.twitch.tv/areneternal)
-* aWiseMoose; [YouTube](https://www.youtube.com/@aWiseMoose/featured) [Twitch](https://www.twitch.tv/awisemoose) [TikTok](https://www.tiktok.com/@a.wisemoose) / [Twitter](https://x.com/aWiseMoose) [BlueSky](https://bsky.app/profile/did:plc:5ijozdxbi7b2gsqih6mii2zv)
-* BBPGames (Creator of Fret Smasher); [Twitch](https://www.twitch.tv/bbpgames) / [Twitter](https://x.com/BBPGames)
-* CarneyJared; [YouTube](https://www.youtube.com/@CarnyJared) [Twitch](https://www.twitch.tv/carnyjared) [TikTok](https://www.tiktok.com/@realcarnyjared)
-* CartmanBrah; [Twitch](https://www.twitch.tv/cartmanbrahtv) [TikTok](https://www.tiktok.com/@cartmanbrah_tv)
-* Darkai; [YouTube](https://www.youtube.com/@DarkaiVT) [Twitch](https://www.twitch.tv/darkaivt) [TikTok](https://www.tiktok.com/@darkaivt) / [Twitter](https://x.com/DarkaiVT) [BlueSky](https://bsky.app/profile/darkaivt.bsky.social)
-* Derpferdler; [YouTube](https://www.youtube.com/@Derpferdler) [Twitch](https://www.twitch.tv/derpferdler) [TikTok](https://www.tiktok.com/@derpferdlerr) / [Twitter](https://x.com/derpferdler) [BlueSky](https://bsky.app/profile/derpferdler.bsky.social)
-* DirtyHertz; [Twitch](https://www.twitch.tv/dirtyhertz_) [TikTok](https://www.tiktok.com/@dirtyhertz)
-* EliteAsian (Creater of YARG); [YouTube](https://www.youtube.com/@eliteasian1234) [Twitch](https://www.twitch.tv/eliteasian123) / [Twitter](https://x.com/EliteAsian123)
-* FigNeurtered; [YouTube](https://www.youtube.com/@FigNeutered) [Twitch](https://www.twitch.tv/figneutered) [TikTok](https://www.tiktok.com/@figneutered)
-* FregRB; [YouTube](https://www.youtube.com/@FregRB) [TikTok](https://www.tiktok.com/@fregrb) / [Twitter](https://x.com/FregRB) [BlueSky](https://bsky.app/profile/fregrb.bsky.social)
-* Fret Smasher; [YouTube](https://www.youtube.com/channel/UC4fWocKzVZp0LSb_jtDV9HA) [Twitch](https://www.twitch.tv/fretsmasher) / [Twitter](https://x.com/FretSmasher)
-* JasonParadise; [YouTube](https://www.youtube.com/@JasonParadise) [Twitch](https://www.twitch.tv/jasonparadise) [TikTok](https://www.tiktok.com/@jparalove) / [Twitter](https://x.com/jparaLove) [BlueSky](https://bsky.app/profile/jasonparadise.bsky.social)
-* Joquanmax; [YouTube](https://www.youtube.com/@joquanmax) [Twitch](https://www.twitch.tv/joquanmax) [TikTok](https://www.tiktok.com/@joquanmax) / [Twitter](https://x.com/joquanmax)
-* Jprez; [YouTube](https://www.youtube.com/@JPrez44) [Twitch](https://www.twitch.tv/jprez)
-* Kadu; [YouTube](https://www.youtube.com/@kaduwaengertner) [Twitch](https://www.twitch.tv/kaduwaengertner) / [Twitter](https://x.com/kaduwaengertner)
-* LeftyGod; [YouTube](https://www.youtube.com/@leftygod9999) [Twitch](https://www.twitch.tv/leftygod998) [TikTok](https://www.tiktok.com/@leftygod998)
-* Lexegon; [YouTube](https://www.youtube.com/@lexegonyt) [Twitch](https://www.twitch.tv/lexegon) [TikTok](https://www.tiktok.com/@lexegon) / [Twitter](https://x.com/lexegon) [BlueSky](https://bsky.app/profile/lexegon.bsky.social)
-* LilPaulie; [YouTube](https://www.youtube.com/@Lil_Paulie) [Twitch](https://www.twitch.tv/lil_paulie)
-* LoreHero; [YouTube](https://www.youtube.com/@LoreHeroPodcast) / [Twitter](https://x.com/LoreHeroPodcast) [BlueSky](https://bsky.app/profile/loreheropodcast.bsky.social)
-* MandyRocks; [YouTube](https://www.youtube.com/@MandyRocks) [Twitch](https://www.twitch.tv/mandyr0cks) [TikTok](https://www.tiktok.com/@mandyr0cks) / [Twitter](https://x.com/Mandy_R0cks) [BlueSky](https://bsky.app/profile/mandyr0cks.bsky.social)
-* MDSitton; [YouTube](https://www.youtube.com/@MattSitton) [Twitch](https://www.twitch.tv/mdsitton)
-* MrElectricNick; [YouTube](https://www.youtube.com/channel/UCnrF08eM5INTSMUZzDLDVYw) [Twitch](https://www.twitch.tv/mrelectricnick) / [Twitter](https://x.com/MrElectricNick)
-* RandyLadyMan; [YouTube](https://www.youtube.com/@randyladyman) [Twitch](https://www.twitch.tv/randyladyman) [TikTok](https://www.tiktok.com/@randymanman) / [Twitter](https://x.com/randyladyman)
-* RandomVince; [YouTube](https://www.youtube.com/@RandomVince27) [Twitch](https://www.twitch.tv/randomvince27) [TikTok](https://www.tiktok.com/@randomvince27)
-* RedSavage; [YouTube](https://www.youtube.com/channel/UCKOT20I-mH-ioSpP-uyoERg) [Twitch](https://www.twitch.tv/redsavage83) [TikTok](https://www.tiktok.com/@theredsavage)
-* SoyaDesu; [YouTube](https://www.youtube.com/@soyadesu) [Twitch](https://www.twitch.tv/soyadesu) [TikTok](https://www.tiktok.com/@soyadesuuu) / [Twitter](https://x.com/soyadesuuu) [BlueSky](https://bsky.app/profile/soya.place)
-* SpriteGH; [YouTube](https://www.youtube.com/@Sprite_GH) [Twitch](https://www.twitch.tv/sprite_gh)
-* Srylian (Creator of Clone Hero); [Twitch](https://www.twitch.tv/srylain) / [Twitter](https://x.com/srylainthe2nd)
-* Symphomatica; [Twitch](https://www.twitch.tv/symphomatica) [YouTube](https://www.youtube.com/@Symphomatica)
-* YARG; [YouTube](https://www.youtube.com/@YARGGame) / [Twitter](https://x.com/YARGGame) [Bluesky](https://bsky.app/profile/yarg.in)
+* 760Creations; [Twitch](https://www.twitch.tv/760creations) [TikTok](https://www.tiktok.com/@760.creations) / [Twitter](https://www.twitch.tv/760creations) [BlueSky](https://x.com/xX760Xx) - A very well known hardware vendor!
+* Acai; [YouTube](https://www.youtube.com/@acai28) [Twitch](https://www.twitch.tv/acai) [TikTok](https://www.tiktok.com/@acai28) / [Twitter](https://x.com/Acai28) [BlueSky](https://bsky.app/profile/acai.bsky.social) - Someone the community has looked up to for years!
+* AceZeroRB; [YouTube](https://www.youtube.com/@TheAcezero12078) [Twitch](https://www.twitch.tv/acezerorb) / [Twitter](https://x.com/AcezeroRB) - A Man VERY good at Rock Band!
+* ArenEternal; [Twitch](https://www.twitch.tv/areneternal) - A streamer who streams Clone Hero / YARG and sometimes charts songs!
+* aWiseMoose; [YouTube](https://www.youtube.com/@aWiseMoose/featured) [Twitch](https://www.twitch.tv/awisemoose) [TikTok](https://www.tiktok.com/@a.wisemoose) / [Twitter](https://x.com/aWiseMoose) [BlueSky](https://bsky.app/profile/did:plc:5ijozdxbi7b2gsqih6mii2zv) - Hes a very wise moose.
+* BBPGames; [Twitch](https://www.twitch.tv/bbpgames) / [Twitter](https://x.com/BBPGames) - The creator of Fret Smasher.
+* CarneyJared; [YouTube](https://www.youtube.com/@CarnyJared) [Twitch](https://www.twitch.tv/carnyjared) [TikTok](https://www.tiktok.com/@realcarnyjared) - Someone who is very good at Clone Hero. *(SPAM, SPAM, SPAM!)*
+* CartmanBrah; [Twitch](https://www.twitch.tv/cartmanbrahtv) [TikTok](https://www.tiktok.com/@cartmanbrah_tv) - A canadien streamer who plays Clone Hero!
+* Darkai; [YouTube](https://www.youtube.com/@DarkaiVT) [Twitch](https://www.twitch.tv/darkaivt) [TikTok](https://www.tiktok.com/@darkaivt) / [Twitter](https://x.com/DarkaiVT) [BlueSky](https://bsky.app/profile/darkaivt.bsky.social) - Another player really good at these games!
+* Derpferdler; [YouTube](https://www.youtube.com/@Derpferdler) [Twitch](https://www.twitch.tv/derpferdler) [TikTok](https://www.tiktok.com/@derpferdlerr) / [Twitter](https://x.com/derpferdler) [BlueSky](https://bsky.app/profile/derpferdler.bsky.social) - A known charter in the community.
+* DirtyHertz; [Twitch](https://www.twitch.tv/dirtyhertz_) [TikTok](https://www.tiktok.com/@dirtyhertz) - An Australian streamer who mainly streams Clone Hero!
+* EliteAsian; [YouTube](https://www.youtube.com/@eliteasian1234) [Twitch](https://www.twitch.tv/eliteasian123) / [Twitter](https://x.com/EliteAsian123) - The creator of YARG! *(Though he may not stream often, when he does its usually YARG Development)*
+* FigNeurtered; [YouTube](https://www.youtube.com/@FigNeutered) [Twitch](https://www.twitch.tv/figneutered) [TikTok](https://www.tiktok.com/@figneutered) - A Charter and good player!
+* FregRB; [TikTok](https://www.tiktok.com/@fregrb) / [Twitter](https://x.com/FregRB) [BlueSky](https://bsky.app/profile/fregrb.bsky.social) - Another good player!
+* Fret Smasher; [YouTube](https://www.youtube.com/channel/UC4fWocKzVZp0LSb_jtDV9HA) [Twitch](https://www.twitch.tv/fretsmasher) / [Twitter](https://x.com/FretSmasher) - The official socials for Fret Snasher!
+* JasonParadise; [YouTube](https://www.youtube.com/@JasonParadise) [Twitch](https://www.twitch.tv/jasonparadise) [TikTok](https://www.tiktok.com/@jparalove) / [Twitter](https://x.com/jparaLove) [BlueSky](https://bsky.app/profile/jasonparadise.bsky.social) - Someone the community has looked up to for years!
+* Joquanmax; [YouTube](https://www.youtube.com/@joquanmax) [Twitch](https://www.twitch.tv/joquanmax) [TikTok](https://www.tiktok.com/@joquanmax) / [Twitter](https://x.com/joquanmax) - A Clone Hero streamer.
+* Jprez; [YouTube](https://www.youtube.com/@JPrez44) [Twitch](https://www.twitch.tv/jprez) - Another good player who mainly plays the console games.
+* Kadu; [YouTube](https://www.youtube.com/@kaduwaengertner) [Twitch](https://www.twitch.tv/kaduwaengertner) / [Twitter](https://x.com/kaduwaengertner) - The lead artist for YARG.
+* LeftyGod; [YouTube](https://www.youtube.com/@leftygod9999) [Twitch](https://www.twitch.tv/leftygod998) [TikTok](https://www.tiktok.com/@leftygod998) - Another good Clone Hero player. *(Plot Twist... HES LEFT HANDED!)*
+* Lexegon; [YouTube](https://www.youtube.com/@lexegonyt) [Twitch](https://www.twitch.tv/lexegon) [TikTok](https://www.tiktok.com/@lexegon) / [Twitter](https://x.com/lexegon) [BlueSky](https://bsky.app/profile/lexegon.bsky.social) - Someone whos main focus is not these games, but sings on YARG or plays Festival sometimes. *(Friends of SoyaDesu)*
+* LilPaulie; [YouTube](https://www.youtube.com/@Lil_Paulie) [Twitch](https://www.twitch.tv/lil_paulie) - A Clone Hero streamer!
+* LoreHero; [YouTube](https://www.youtube.com/@LoreHeroPodcast) / [Twitter](https://x.com/LoreHeroPodcast) [BlueSky](https://bsky.app/profile/loreheropodcast.bsky.social) - 4 guys who sit in a call and talk about these games. *(Acai, JasonParadise, 760Creations, aWiseMoose)*
+* MandyRocks; [YouTube](https://www.youtube.com/@MandyRocks) [Twitch](https://www.twitch.tv/mandyr0cks) [TikTok](https://www.tiktok.com/@mandyr0cks) / [Twitter](https://x.com/Mandy_R0cks) [BlueSky](https://bsky.app/profile/mandyr0cks.bsky.social) - Another good player!
+* MDSitton; [YouTube](https://www.youtube.com/@MattSitton) [Twitch](https://www.twitch.tv/mdsitton) - A Developer for Clone Hero who streams often.
+* MrElectricNick; [YouTube](https://www.youtube.com/channel/UCnrF08eM5INTSMUZzDLDVYw) [Twitch](https://www.twitch.tv/mrelectricnick) / [Twitter](https://x.com/MrElectricNick) = Another good player! *(Plot Twist... HES LEFT HANDED)*
+* RandyLadyMan; [YouTube](https://www.youtube.com/@randyladyman) [Twitch](https://www.twitch.tv/randyladyman) [TikTok](https://www.tiktok.com/@randymanman) / [Twitter](https://x.com/randyladyman) - Someone who streams these games and are good at them!
+* RandomVince; [YouTube](https://www.youtube.com/@RandomVince27) [Twitch](https://www.twitch.tv/randomvince27) [TikTok](https://www.tiktok.com/@randomvince27) - Someone who streams Clone Hero. *(Sometimes)*
+* RedSavage; [YouTube](https://www.youtube.com/channel/UCKOT20I-mH-ioSpP-uyoERg) [Twitch](https://www.twitch.tv/redsavage83) [TikTok](https://www.tiktok.com/@theredsavage) = Someone who loves to shred! HELL YEA!
+* SoyaDesu; [YouTube](https://www.youtube.com/@soyadesu) [Twitch](https://www.twitch.tv/soyadesu) [TikTok](https://www.tiktok.com/@soyadesuuu) / [Twitter](https://x.com/soyadesuuu) [BlueSky](https://bsky.app/profile/soya.place) - A Queen in the community who got welcomed back to the community after a 10+ year break.
+* SpriteGH; [YouTube](https://www.youtube.com/@Sprite_GH) [Twitch](https://www.twitch.tv/sprite_gh) - Hes a bottle'o'soda.
+* Srylian; [Twitch](https://www.twitch.tv/srylain) / [Twitter](https://x.com/srylainthe2nd) - The creator of Clone Hero!
+* Symphomatica; [Twitch](https://www.twitch.tv/symphomatica) [YouTube](https://www.youtube.com/@Symphomatica) - Someone who plays Clone Hero!
+* YARG; [YouTube](https://www.youtube.com/@YARGGame) / [Twitter](https://x.com/YARGGame) [Bluesky](https://bsky.app/profile/yarg.in) = The offical socials for Yet Another Rhythm Game!
 
 ## GAMES
 - [ArbysHasTheMeats](https://drive.google.com/drive/folders/1Qwatkm31zYjssPR9ey9CwauWSk7uQVJq) - Game Preserves / Console Games.
