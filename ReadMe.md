@@ -166,6 +166,7 @@
 - Other Tools
   - [Lyric Hyphenator](https://juiciobrennan.com/hyphenator/) - Hyphenates text into syllables. *('Wonder' -> 'Won-der')*
   - [Clone Hero Icon Repository](https://gitlab.com/clonehero/sources/) - In-Game Icons you can link to your charts.
+  - [Useful shortcuts for Moonscraper](https://docs.google.com/document/d/14Rxx3hfRaqsFTkGvih4YBm01ErG-divxWEn0_cNAgqU/edit?usp=sharing)
 
 ## YOUTUBE VIDEOS
 - Guitar Hero 2 Permadeath; [VOD](https://youtu.be/dFnsre-g_94) [Documentary](https://www.youtube.com/watch?v=L3rIEH37nws) 
