@@ -82,7 +82,7 @@
 
 - RomHacks & Custom ISO's
   * [Custom ISO's](https://docs.google.com/spreadsheets/d/1k75r286Z-JAJtnIrpLd4Isk-VCmwtU8LNCZJhxyJ714/edit?gid=2028105666#gid=2028105666) - Spreadsheet Full of Custom ISO's *(Not All Work)*
-  * [Guitar Hero A7X](https://github.com/Ryixu/GuitarHeroA7X/releases)
+  * [Guitar Hero A7X](https://github.com/Ryixu/GuitarHeroA7X/releases) - My *(Ryixion)* own GH3 RomHack! *(Im currently making 2.0)* 
   * [JRABES](https://drive.google.com/drive/folders/1MZ8dCnnS6nNw31tOaPJl2RwSfM5XzTAK) - Google Drive Full of JRABES Custom ISO's.
   * [Permadeath](https://github.com/FregRB/NS-GH-Permadeath/releases) - Neversoft Permadeath Mods. *(GH3, GHA)*
 
@@ -166,7 +166,7 @@
 - Other Tools
   - [Lyric Hyphenator](https://juiciobrennan.com/hyphenator/) - Hyphenates text into syllables. *('Wonder' -> 'Won-der')*
   - [Clone Hero Icon Repository](https://gitlab.com/clonehero/sources/) - In-Game Icons you can link to your charts.
-  - [Useful shortcuts for Moonscraper](https://docs.google.com/document/d/14Rxx3hfRaqsFTkGvih4YBm01ErG-divxWEn0_cNAgqU/edit?usp=sharing)
+  - [Moonscraper Keyboard Shortcuts](https://docs.google.com/document/d/14Rxx3hfRaqsFTkGvih4YBm01ErG-divxWEn0_cNAgqU/edit?usp=sharing) - A Guide for Moonscraper that lists all of the shortcuts and keybinds.
 
 ## YOUTUBE VIDEOS
 - Guitar Hero 2 Permadeath; [VOD](https://youtu.be/dFnsre-g_94) [Documentary](https://www.youtube.com/watch?v=L3rIEH37nws) 
