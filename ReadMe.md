@@ -22,7 +22,7 @@
 * [Clone Hero Modding](https://discord.gg/DwrVqZtk3H) - Clone Hero Modding
 * [CRKD](https://discord.gg/ksAbkQDJ7H) - CRKD creates offical hardware! *(They are the same folks from Red Octane)*
 * [Chorus Encore](https://discord.gg/QwvMTbpTgc) - Chorus Encore is a chart hosting site. *(Discord is not very active)*
-* [Custom Songs Central](https://discord.gg/yM49GwwvVj) - CSC Hosts Clone Hero Tournaments!
+* [Custom Songs Central](https://discord.gg/yM49GwwvVj) - CSC Hosts Clone Hero Tournaments and releases song packs quarterly!
 * [Fortnite Festival](https://discord.com/invite/fortnitefestival) - Fortnite Festival...
 * [Guitar Hero World Tour: Defenitive Edition](https://discord.gg/ghwtde) - Guitar Hero World Tour Mod PC. Similar to the Deluxe Mods.
 * [Harmonix](https://discord.com/invite/harmonix) - The official Harmonix Discord!
