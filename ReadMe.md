@@ -174,7 +174,7 @@
 
 - Tutorials
   - [Rock Band 4 PC](https://youtu.be/IweevMizZeI) - Teaches you how to setup RB4 on ShadPS4.
-  - [Guitar Hero III Deluxe PC](https://www.youtube.com/watch?v=JIK78_GxPlQ) - Teaches you how to setup Guitar Hero III Deluxe on PC.
+  - [Guitar Hero III Deluxe PC](https://www.youtube.com/watch?v=B6QhZ5OGrDE) - Teaches you how to setup Guitar Hero III Deluxe on PC.
   - [Using Guitar on RPCS3](https://www.youtube.com/watch?v=GfUOb1l86fQ) - Teaches you how to use your Guitar Controller on RPCS3.
   - [Xbox 360 Hypervisor Exploit](https://youtu.be/rL8kXxGe8vs) - Teaches you how to temporarily softmod your Xbox 360.
   - [RGH Setup Guide](https://youtu.be/CzZpAcCc42M) - Hardmod your Xbox 360? Heres a guide on how to set it up for these games!
