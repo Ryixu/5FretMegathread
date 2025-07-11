@@ -106,7 +106,7 @@
 * [Clone Hero Spreadsheet](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit?gid=1870223413#gid=1870223413) - Spreadsheet for Charts. *(Mainly used for downloading Console charts for PC)*
 * [Fortnite Festival Charts](https://github.com/FEStoRB/FNFestivaltoRB/) - A Github Repo for ripped Festival Charts.
 * [LaneBreakers](https://www.youtube.com/watch?v=jJLg7XB93Fg) - Massive Rock Band 3 Song Pack! *(Includes native PC ports to Clone Hero / YARG)*
-* [Meme Charts](https://drive.google.com/drive/folders/12EFOWuthnQ66wcJyLkxH9KSGIDPdQbAf?usp=sharing) - Random Meme Charts. *(DM 'waititsanemptybottle' on Discord to get any added)*
+* [Meme Charts](https://drive.google.com/drive/folders/12EFOWuthnQ66wcJyLkxH9KSGIDPdQbAf?usp=sharing) - Random Meme Charts. *(DM 'symphomatica' on Discord to get any added)*
 * [Rock Band 4 Charts](https://drive.google.com/drive/folders/16zy6DazemvIsSi6i1D7xv4zI-lQdBmph) - Rock Band 4 Charts.
 * [Rock Band & Guitar Hero DLC](https://docs.google.com/spreadsheets/d/1-3lo2ASxM-3yVr_JH14F7-Lc1v2_FcS5Rv_yDCANEmk/edit?pli=1&gid=0#gid=0) - DLC Packs for Console Rock Band.
 
@@ -164,6 +164,7 @@
   - [Cobalt](https://cobalt.tools/) - YouTube Downloader
  
 - Other Tools
+  - [Chart BPM Modifier](https://customsongscentral.com/bpm-modifier/) - Used for multiplying and dividing chart BPMs
   - [Lyric Hyphenator](https://juiciobrennan.com/hyphenator/) - Hyphenates text into syllables. *('Wonder' -> 'Won-der')*
   - [Clone Hero Icon Repository](https://gitlab.com/clonehero/sources/) - In-Game Icons you can link to your charts.
   - [Moonscraper Keyboard Shortcuts](https://docs.google.com/document/d/14Rxx3hfRaqsFTkGvih4YBm01ErG-divxWEn0_cNAgqU/edit?usp=sharing) - A Guide for Moonscraper that lists all of the shortcuts and keybinds.
@@ -185,4 +186,5 @@
   - [YourDustyGuitar's Charting Guides](https://www.youtube.com/playlist?list=PLKRMjhBxVwV60uQRSIgs30WeZW4-AyBF4) Teaches you how to chart.
 
 ## MISCELLANEOUS
+* [Music Charts Tools](https://musiccharts.tools/spotifyhistory) - Checks a spotify playlist and gives you existing charts of those songs (If possible)
 * Score Hero; [Guitar Hero Score Hero](https://www.scorehero.com/) [Rock Band Score Hero](https://rockband.scorehero.com/) - An old forum for posting scores.
