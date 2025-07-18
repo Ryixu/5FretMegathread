@@ -107,7 +107,7 @@
 * [Fortnite Festival Charts](https://github.com/FEStoRB/FNFestivaltoRB/) - A Github Repo for ripped Festival Charts.
 * [LaneBreakers](https://www.youtube.com/watch?v=jJLg7XB93Fg) - Massive Rock Band 3 Song Pack! *(Includes native PC ports to Clone Hero / YARG)*
 * [Meme Charts](https://drive.google.com/drive/folders/12EFOWuthnQ66wcJyLkxH9KSGIDPdQbAf?usp=sharing) - Random Meme Charts. *(DM 'symphomatica' on Discord to get any added)*
-* [Rock Band 4 Charts](https://drive.google.com/drive/folders/16zy6DazemvIsSi6i1D7xv4zI-lQdBmph) - Rock Band 4 Charts.
+* [Rock Band 4 Charts](https://drive.google.com/drive/folders/16zy6DazemvIsSi6i1D7xv4zI-lQdBmph) - Rock Band 4 Charts for PC.
 * [Rock Band & Guitar Hero DLC](https://docs.google.com/spreadsheets/d/1-3lo2ASxM-3yVr_JH14F7-Lc1v2_FcS5Rv_yDCANEmk/edit?pli=1&gid=0#gid=0) - DLC Packs for Console Rock Band.
 
 ## HARDWARE
